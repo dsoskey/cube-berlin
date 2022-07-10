@@ -384,6 +384,7 @@ Kytheon, Hero of Akros	ori	23	Owned	~~	Non-foil	1	W	~~	~~	Legendary Creature —
 Condemn	cmr	369	Owned	~~	Non-foil	1	W	~~	~~	Instant
 Unexpectedly Absent	cma	27	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Charming Prince	eld	8	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Noble
+Brimaz, King of Oreskos	bng	5	Proxied	~~	Non-foil	3	W	~~	~~	Legendary Creature — Cat Soldier
 Lingering Souls	tsr	296	Owned	~~	Non-foil	3	B,W	~~	~~	Sorcery
 Wheel of Fortune	sum	185	Proxied	~~	Non-foil	3	R	~~	~~	Sorcery
 Kogla, the Titan Ape	iko	162	Owned	~~	Non-foil	6	G	~~	~~	Legendary Creature — Ape
@@ -427,6 +428,7 @@ Pia and Kiran Nalaar	ddu	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Charmbreaker Devils	c20	147	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oust	roe	40	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	384	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Emeria Angel	znc	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Luminarch Aspirant	ncc	205	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodthirsty Adversary	mid	129	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thirst for Discovery	vow	85	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -440,6 +442,7 @@ Pia Nalaar	kld	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Phoenix	jmp	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul-Scar Mage	akh	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tireless Provisioner			~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Banishing Light	khc	19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Containment Priest	uma	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fireball	m10	136	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Embereth Shieldbreaker	eld	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -483,6 +486,7 @@ Progenitus	v11	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Showdown of the Skalds	khm	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Leovold, Emissary of Trest	cn2	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Knight of the Reliquary	ima	203	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Lingering Souls	tsr	296	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grist, the Hunger Tide	mh2	202	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Maelstrom Pulse	uma	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancestral Recall	2ed	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -547,4 +551,3 @@ Mox Emerald	vma	5	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Library	ema	187	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Boseiju, Who Endures	neo	412	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soulfire Grand Master	frf	27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Porcelain Legionnaire	nph	19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
