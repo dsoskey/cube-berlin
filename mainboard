@@ -363,7 +363,15 @@ Ketria Triome	iko	310	Owned	~~	Non-foil	0	U,R,G	~~	~~	Land — Forest Island Mou
 Raugrin Triome	iko	311	Owned	~~	Non-foil	0	W,U,R	~~	~~	Land — Island Mountain Plains
 Zagoth Triome	iko	313	Owned	~~	Non-foil	0	U,B,G	~~	~~	Land — Swamp Forest Island
 Indatha Triome	iko	309	Owned	~~	Non-foil	0	W,B,G	~~	~~	Land — Plains Swamp Forest
+Greater Gargadon	2x2	453	Owned	~~	Foil	10	R	~~	~~	Creature — Beast
 Final Fortune	6ed	175	Owned	~~	Non-foil	2	R	~~	~~	Instant
+Final Fortune	6ed	175	Owned	~~	Non-foil	2	R	~~	~~	Instant
+Cemetery Gatekeeper	vow	148	Owned	~~	Non-foil	2	R	~~	~~	Creature — Vampire
+Dragonkin Berserker	khm	131	Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Berserker
+Goblin Engineer	tsr	345	Owned	~~	Foil	2	R	~~	~~	Creature — Goblin Artificer
+Rampaging Ferocidon	xln	154	Owned	~~	Non-foil	3	R	~~	~~	Creature — Dinosaur
+Chandra, Dressed to Kill	vow	149	Owned	~~	Non-foil	3	R	~~	~~	Legendary Planeswalker — Chandra
+Mizzium Tank	war	138	Owned	~~	Foil	3	R	~~	~~	Artifact — Vehicle
 Lingering Souls	tsr	296	Owned	~~	Non-foil	3	B,W	~~	~~	Sorcery
 Wheel of Fortune	sum	185	Proxied	~~	Non-foil	3	R	~~	~~	Sorcery
 Kogla, the Titan Ape	iko	162	Owned	~~	Non-foil	6	G	~~	~~	Legendary Creature — Ape
@@ -401,6 +409,7 @@ Halana and Alena, Partners	vow	239	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Portent	c18	97	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nighthawk Scavenger	znr	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Palinchron	vma	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Anger of the Gods	tsr	339	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Garruk Relentless	v17	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia and Kiran Nalaar	ddu	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oust	roe	40	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -410,10 +419,14 @@ Magus of the Order	cmr	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Satoru Umezawa	neo	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Swift Reconfiguration	nec	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Skyclave Shade	znr	298	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Chandra, Acolyte of Flame	m20	126	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thousand-Year Storm	pgrn	207s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Pia Nalaar	kld	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Lightning Phoenix	jmp	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul-Scar Mage	akh	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tireless Provisioner			~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Containment Priest	uma	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Fireball	m10	136	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Embereth Shieldbreaker	eld	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mutavault	mor	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Library of Alexandria	vma	303	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -436,6 +449,8 @@ Sword of Body and Mind	som	208	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tangle Wire	nem	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Coercive Portal	vma	266	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vexing Devil	uma	154	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Kari Zev, Skyship Raider	plst	AER-87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Reckless Impulse	vow	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Witherbloom Command	stx	248	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lotus Petal	tmp	294	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yorion, Sky Nomad	iko	232	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -536,4 +551,3 @@ Mox Pearl	vma	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 History of Benalia	dom	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra, Torch of Defiance	kld	110	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Glorybringer	akh	134	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mizzium Mortars	mm3	101	~~	~~	~~	"""~~"""	~~	~~	~~	~~
