@@ -394,7 +394,14 @@ Kogla, the Titan Ape	iko	162	Owned	~~	Non-foil	6	G	~~	~~	Legendary Creature — 
 Gemrazer	iko	155	Owned	~~	Non-foil	4	G	~~	~~	Creature — Beast
 Abundant Harvest	sta	48	Owned	~~	Non-foil	1	G	~~	~~	Sorcery
 Lotus Cobra	znr	307	Owned	~~	Foil	2	G	~~	~~	Creature — Snake
+Fatal Push	2xm	93	Owned	~~	Non-foil	1	B	~~	~~	Instant
+Gutterbones	rna	76	Owned	~~	Non-foil	1	B	~~	~~	Creature — Skeleton Warrior
+Gravecrawler	ddq	59	Owned	~~	Non-foil	1	B	~~	~~	Creature — Zombie
 Damn	mh2	396	Owned	~~	Non-foil	2	B,W	~~	~~	Sorcery
+Heartless Act	iko	91	Owned	~~	Non-foil	2	B	~~	~~	Instant
+Doom Blade	sta	28	Owned	~~	Foil	2	B	~~	~~	Instant
+Sign in Blood	sta	32	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
+Go for the Throat	2x2	76	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Unburial Rites	isd	122	Owned	~~	Non-foil	5	B,W	~~	~~	Sorcery
 Delver of Secrets	isd	51	Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Wizard
 Thing in the Ice	soi	92	Owned	~~	Non-foil	2	U	~~	~~	Creature — Horror
@@ -425,6 +432,7 @@ Atraxa, Grand Unifier	one	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Stormcaller	znr	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Timeless Dragon	mh2	388	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tamiyo, Compleated Sage	neo	306	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Feed the Swarm	ncc	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Halana and Alena, Partners	vow	239	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Portent	c18	97	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nighthawk Scavenger	znr	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -443,6 +451,7 @@ Magus of the Order	cmr	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Satoru Umezawa	neo	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Swift Reconfiguration	nec	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Skyclave Shade	znr	298	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Power Word Kill	afr	114	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra, Acolyte of Flame	m20	126	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thousand-Year Storm	pgrn	207s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tovolar's Huntmaster	mid	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -499,6 +508,7 @@ Knight of the Reliquary	ima	203	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lingering Souls	tsr	296	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grist, the Hunger Tide	mh2	202	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Maelstrom Pulse	uma	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Damn	mh2	396	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancestral Recall	2ed	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancestral Vision	ima	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Repeal	ima	70	~~	~~	~~	"""~~"""	~~	~~	~~	~~
