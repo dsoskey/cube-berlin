@@ -402,7 +402,11 @@ Heartless Act	iko	91	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Doom Blade	sta	28	Owned	~~	Foil	2	B	~~	~~	Instant
 Sign in Blood	sta	32	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Go for the Throat	2x2	76	Owned	~~	Non-foil	2	B	~~	~~	Instant
+Rotting Regisaur	m20	111	Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Dinosaur
+Necropotence	5ed	182	Proxied	~~	Non-foil	3	B	~~	~~	Enchantment
+Rankle, Master of Pranks	eld	356	Owned	~~	Non-foil	4	B	~~	~~	Legendary Creature — Faerie Rogue
 Unburial Rites	isd	122	Owned	~~	Non-foil	5	B,W	~~	~~	Sorcery
+Gray Merchant of Asphodel	tsr	323	Owned	~~	Non-foil	5	B	~~	~~	Creature — Zombie
 Delver of Secrets	isd	51	Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Wizard
 Thing in the Ice	soi	92	Owned	~~	Non-foil	2	U	~~	~~	Creature — Horror
 Thassa's Oracle	thb	73	Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Wizard
@@ -432,10 +436,12 @@ Atraxa, Grand Unifier	one	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Stormcaller	znr	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Timeless Dragon	mh2	388	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tamiyo, Compleated Sage	neo	306	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gurmag Angler	tsr	324	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Feed the Swarm	ncc	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Halana and Alena, Partners	vow	239	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Portent	c18	97	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nighthawk Scavenger	znr	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dread Return	c14	142	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Palinchron	vma	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anger of the Gods	tsr	339	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Garruk Relentless	v17	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -451,6 +457,7 @@ Magus of the Order	cmr	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Satoru Umezawa	neo	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Swift Reconfiguration	nec	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Skyclave Shade	znr	298	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sheoldred, Whispering One	jmp	278	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Power Word Kill	afr	114	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra, Acolyte of Flame	m20	126	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thousand-Year Storm	pgrn	207s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -463,6 +470,7 @@ Yavimaya Elder	mic	147	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Banishing Light	khc	19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Containment Priest	uma	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fireball	m10	136	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Extinction Event	iko	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Embereth Shieldbreaker	eld	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mutavault	mor	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Library of Alexandria	vma	303	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -484,6 +492,7 @@ Sword of Fire and Ice	dst	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Body and Mind	som	208	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tangle Wire	nem	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Coercive Portal	vma	266	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Plague Engineer	h1r	14	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vexing Devil	uma	154	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kari Zev, Skyship Raider	plst	AER-87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Purphoros, Bronze-Blooded	thb	150	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -508,6 +517,7 @@ Knight of the Reliquary	ima	203	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lingering Souls	tsr	296	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grist, the Hunger Tide	mh2	202	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Maelstrom Pulse	uma	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Unburial Rites	uma	119	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Damn	mh2	396	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancestral Recall	2ed	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancestral Vision	ima	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
