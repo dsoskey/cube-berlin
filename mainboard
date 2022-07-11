@@ -409,16 +409,22 @@ Unburial Rites	isd	122	Owned	~~	Non-foil	5	B,W	~~	~~	Sorcery
 Gray Merchant of Asphodel	tsr	323	Owned	~~	Non-foil	5	B	~~	~~	Creature — Zombie
 Bloodsoaked Champion	ncc	243	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Warrior
 Delver of Secrets	isd	51	Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Wizard
+Delver of Secrets	isd	51	Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Wizard
 Thing in the Ice	soi	92	Owned	~~	Non-foil	2	U	~~	~~	Creature — Horror
 Thassa's Oracle	thb	73	Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Wizard
 Suspicious Stowaway	mid	288	Owned	~~	Non-foil	2	U,G	~~	~~	Creature — Human Rogue Werewolf
+Thirst for Knowledge	mrd	53	Owned	~~	Non-foil	3	U	~~	~~	Instant
 Compulsive Research	sta	14	Owned	consider	Non-foil	3	U	~~	~~	Sorcery
+Compulsive Research	sta	14	Owned	consider	Non-foil	3	U	~~	~~	Sorcery
+Gifts Ungiven	mm3	40	Owned	~~	Non-foil	4	U	~~	~~	Instant
 Gifts Ungiven	mm3	40	Owned	~~	Non-foil	4	U	~~	~~	Instant
 The Mirari Conjecture	dom	57	Owned	~~	Non-foil	5	U	~~	~~	Enchantment — Saga
 Shark Typhoon	iko	67	Owned	~~	Non-foil	6	U	~~	~~	Enchantment
 Shark Typhoon	iko	67	Owned	~~	Non-foil	6	U	~~	~~	Enchantment
 Temporal Manipulation	sld	1169	Owned	~~	Foil	5	U	~~	~~	Sorcery
+The Mirari Conjecture	dom	57	Owned	~~	Non-foil	5	U	~~	~~	Enchantment — Saga
 Thassa's Oracle	thb	73	Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Wizard
+Thing in the Ice	soi	92	Owned	~~	Non-foil	2	U	~~	~~	Creature — Horror
 Assassin's Trophy	2x2	474	Owned	~~	Etched	2	B,G	~~	~~	Instant
 Soulherder	khc	93	Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Spirit
 Usher of the Fallen	khm	35	Owned	~~	Non-foil	1	W	~~	~~	Creature — Spirit Warrior
@@ -427,6 +433,7 @@ Golos, Tireless Pilgrim	m20	226	Owned	~~	Non-foil	5	B,G,R,U,W	~~	~~	Legendary Ar
 Raging Ravine	puma	U38	Owned	~~	Foil	0	R,G	~~	~~	Land
 Faerie Artisans	c16	8	Owned	~~	Non-foil	4	U	~~	~~	Creature — Faerie Artificer
 Expansion // Explosion	grn	224	Owned	~~	Non-foil	6	R,U	~~	~~	Instant
+Commit // Memory	akh	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Leonin Relic-Warder	c17	65	Owned	~~	Non-foil	2	W	~~	~~	Creature — Cat Cleric
 Leonin Relic-Warder	c17	65	Owned	~~	Non-foil	2	W	~~	~~	Creature — Cat Cleric
 Spellseeker	bbd	41	Owned	~~	Non-foil	3	U	~~	~~	Creature — Human Wizard
@@ -434,12 +441,15 @@ Timetwister	2ed	85	Owned	~~	Non-foil	3	U	~~	~~	Sorcery
 Temporary Lockdown	dmu	36	Owned	~~	Foil	3	W	~~	~~	Enchantment
 Temporary Lockdown	dmu	36	Owned	~~	Foil	3	W	~~	~~	Enchantment
 Atraxa, Grand Unifier	one	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Memory Lapse	7ed	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Stormcaller	znr	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Timeless Dragon	mh2	388	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Solve the Equation	stx	54	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tamiyo, Compleated Sage	neo	306	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gurmag Angler	tsr	324	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Feed the Swarm	ncc	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Halana and Alena, Partners	vow	239	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thassa's Intervention	thb	72	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Portent	c18	97	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nighthawk Scavenger	znr	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dread Return	c14	142	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -448,6 +458,7 @@ Anger of the Gods	tsr	339	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Garruk Relentless	v17	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia and Kiran Nalaar	ddu	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Charmbreaker Devils	c20	147	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Malevolent Hermit	dbl	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oust	roe	40	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prismatic Ending	mh2	384	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Emeria Angel	znc	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -466,11 +477,13 @@ Tovolar's Huntmaster	mid	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia Nalaar	kld	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Phoenix	jmp	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul-Scar Mage	akh	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+True-Name Nemesis	tsr	321	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tireless Provisioner			~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya Elder	mic	147	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Banishing Light	khc	19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Containment Priest	uma	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fireball	m10	136	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Faerie Vandal	znc	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Extinction Event	iko	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Embereth Shieldbreaker	eld	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mutavault	mor	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -508,6 +521,7 @@ The Scarab God	hou	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ob Nixilis, the Adversary	snc	284	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Olivia, Crimson Bride	vow	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Edric, Spymaster of Trest	cns	187	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Suspicious Stowaway	mid	80	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Aura Shards	cmd	182	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Huntmaster of the Fells	v17	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ashen Rider	ths	187	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -521,22 +535,20 @@ Maelstrom Pulse	uma	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Unburial Rites	uma	119	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Damn	mh2	396	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancestral Recall	2ed	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ancestral Recall	vma	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancestral Vision	ima	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Repeal	ima	70	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystical Tutor	ema	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Echo of Eons	mh1	46	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gilded Drake	usg	76	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thassa's Oracle	thb	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 The Reality Chip	neo	74	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Emry, Lurker of the Loch	eld	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spellseeker	bbd	41	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thirst for Discovery	vow	85	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Memory Deluge	mid	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystic Confluence	tsr	312	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Shark Typhoon	iko	67	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dig Through Time	uma	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hullbreaker Horror	vow	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Riftwing Cloudskate	tsr	82	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Time Walk	vma	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mox Sapphire	vma	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Show and Tell	usg	96	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Trinket Mage	ddu	41	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vendilion Clique	a25	76	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mind's Desire	dds	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Bribery	mmq	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Treasure Cruise	uma	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
