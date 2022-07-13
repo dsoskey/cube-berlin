@@ -427,7 +427,23 @@ The Mirari Conjecture	dom	57	Owned	~~	Non-foil	5	U	~~	~~	Enchantment — Saga
 Thassa's Oracle	thb	73	Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Wizard
 Thing in the Ice	soi	92	Owned	~~	Non-foil	2	U	~~	~~	Creature — Horror
 Assassin's Trophy	2x2	474	Owned	~~	Etched	2	B,G	~~	~~	Instant
+Fire // Ice	mh2	290	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
+Vanishing Verse	stx	244	Owned	consider	Non-foil	2	W,B	~~	~~	Instant
+Fracture	stx	188	Owned	~~	Non-foil	2	B,W	~~	~~	Instant
+Growth Spiral	cmr	446	Owned	~~	Non-foil	2	G,U	~~	~~	Instant
 Soulherder	khc	93	Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Spirit
+Soulherder	khc	93	Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Spirit
+Gaddock Teeg	puma	U21	Owned	~~	Foil	2	W,G	~~	~~	Legendary Creature — Kithkin Advisor
+Territorial Kavu	mh2	216	Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Kavu
+Ajani Vengeant	ala	154	Proxied	~~	Non-foil	4	R,W	~~	~~	Legendary Planeswalker — Ajani
+Geyadrone Dihada	mh2	199	Owned	~~	Non-foil	4	B,R,U	~~	~~	Legendary Planeswalker — Dihada
+Culling Ritual	stx	337	Owned	~~	Foil	4	B,G	~~	~~	Sorcery
+Klothys, God of Destiny	thb	220	Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Enchantment Creature — God
+Lutri, the Spellchaser	iko	227	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Elemental Otter
+Trygon Predator	tsr	389	Owned	~~	Foil	3	U,G	~~	~~	Creature — Beast
+Obosh, the Preypiercer	iko	228	Owned	~~	Non-foil	5	B,R	~~	~~	Legendary Creature — Hellion Horror
+Trostani Discordant	grn	208	Owned	~~	Non-foil	5	G,W	~~	~~	Legendary Creature — Dryad
+Koma, Cosmos Serpent	khm	326	Owned	~~	Non-foil	7	U,G	~~	~~	Legendary Creature — Serpent
 Usher of the Fallen	khm	35	Owned	~~	Non-foil	1	W	~~	~~	Creature — Spirit Warrior
 Intrepid Adversary	mid	25	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Scout
 Golos, Tireless Pilgrim	m20	226	Owned	~~	Non-foil	5	B,G,R,U,W	~~	~~	Legendary Artifact Creature — Scout
@@ -438,10 +454,13 @@ Commit // Memory	akh	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Leonin Relic-Warder	c17	65	Owned	~~	Non-foil	2	W	~~	~~	Creature — Cat Cleric
 Leonin Relic-Warder	c17	65	Owned	~~	Non-foil	2	W	~~	~~	Creature — Cat Cleric
 Spellseeker	bbd	41	Owned	~~	Non-foil	3	U	~~	~~	Creature — Human Wizard
+Void Rend	snc	403	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Timetwister	2ed	85	Owned	~~	Non-foil	3	U	~~	~~	Sorcery
 Temporary Lockdown	dmu	36	Owned	~~	Foil	3	W	~~	~~	Enchantment
 Temporary Lockdown	dmu	36	Owned	~~	Foil	3	W	~~	~~	Enchantment
 Atraxa, Grand Unifier	one	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ethersworn Sphinx	mh2	195	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Velomachus Lorehold	stx	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Memory Lapse	7ed	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Stormcaller	znr	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Timeless Dragon	mh2	388	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -452,9 +471,12 @@ Feed the Swarm	ncc	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Halana and Alena, Partners	vow	239	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thassa's Intervention	thb	72	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Portent	c18	97	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Epic Experiment	c15	216	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nighthawk Scavenger	znr	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dread Return	c14	142	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Priest of Fell Rites	mh2	208	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Palinchron	vma	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Electrolyze	sta	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anger of the Gods	tsr	339	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Garruk Relentless	v17	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia and Kiran Nalaar	ddu	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -467,6 +489,7 @@ Luminarch Aspirant	ncc	205	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodthirsty Adversary	mid	129	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thirst for Discovery	vow	85	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Magus of the Order	cmr	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Prime Speaker Vannifar	rna	195	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Satoru Umezawa	neo	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Swift Reconfiguration	nec	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Skyclave Shade	znr	298	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -474,6 +497,7 @@ Sheoldred, Whispering One	jmp	278	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Power Word Kill	afr	114	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra, Acolyte of Flame	m20	126	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thousand-Year Storm	pgrn	207s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Falkenrath Aristocrat	mm3	163	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tovolar's Huntmaster	mid	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia Nalaar	kld	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Phoenix	jmp	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -485,6 +509,7 @@ Banishing Light	khc	19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Containment Priest	uma	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fireball	m10	136	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Faerie Vandal	znc	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Fiend Artisan	iko	220	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Extinction Event	iko	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Embereth Shieldbreaker	eld	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mutavault	mor	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -515,21 +540,4 @@ Reckless Impulse	vow	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	plst	THB-13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Witherbloom Command	stx	248	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lotus Petal	tmp	294	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Yorion, Sky Nomad	iko	232	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Geist of Saint Traft	ddq	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ashiok, Nightmare Weaver	ths	188	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-The Scarab God	hou	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ob Nixilis, the Adversary	snc	284	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Olivia, Crimson Bride	vow	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Edric, Spymaster of Trest	cns	187	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Suspicious Stowaway	mid	80	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Aura Shards	cmd	182	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Huntmaster of the Fells	v17	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ashen Rider	ths	187	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Progenitus	v11	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Showdown of the Skalds	khm	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Leovold, Emissary of Trest	cn2	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Knight of the Reliquary	ima	203	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lingering Souls	tsr	296	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Grist, the Hunger Tide	mh2	202	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Maelstrom Pulse	uma	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Assassin's Trophy	pgrn	152s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
