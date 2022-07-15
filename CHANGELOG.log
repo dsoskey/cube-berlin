@@ -847,3 +847,6 @@ Timestamp	Board	ChangeType	Name
 2022-07-15T15:28:40.775+00:00	mainboard	add	Light Up the Stage
 2022-07-15T15:29:28.433+00:00	mainboard	add	Magmatic Channeler
 2022-07-15T15:30:51.906+00:00	mainboard	remove	Purphoros, Bronze-Blooded
+2022-07-15T15:35:09.303+00:00	mainboard	remove	Vexing Devil
+2022-07-15T15:35:09.303+00:00	mainboard	remove	Kari Zev, Skyship Raider
+2022-07-15T15:35:09.303+00:00	mainboard	add	Abbot of Keral Keep
