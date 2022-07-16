@@ -468,6 +468,7 @@ Deal Broker	cns	61	Owned	~~	Non-foil	3	~~	~~	~~	Artifact Creature — Construct
 Creeping Tar Pit	puma	U34	Owned	~~	Foil	0	U,B	~~	~~	Land
 Raging Ravine	puma	U38	Owned	~~	Foil	0	R,G	~~	~~	Land
 Faerie Artisans	c16	8	Owned	~~	Non-foil	4	U	~~	~~	Creature — Faerie Artificer
+Jokulhaups	5ed	246	Owned	~~	Non-foil	6	R	~~	~~	Sorcery
 Faerie Artisans	c16	8	Owned	~~	Non-foil	4	U	~~	~~	Creature — Faerie Artificer
 Expansion // Explosion	grn	224	Owned	~~	Non-foil	6	R,U	~~	~~	Instant
 Commit // Memory	akh	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -536,3 +537,4 @@ Faerie Vandal	znc	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fiend Artisan	iko	220	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Extinction Event	iko	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Embereth Shieldbreaker	eld	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Soulfire Grand Master	frf	27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
