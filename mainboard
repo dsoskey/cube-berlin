@@ -459,7 +459,10 @@ Abbot of Keral Keep	ori	127	Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Monk
 Ophiomancer	cc2	3	Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Shaman
 Ravenous Chupacabra	rix	82	Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Horror
 Wild Growth	c18	165	Owned	~~	Non-foil	1	G	~~	~~	Enchantment — Aura
+Sword of Hearth and Home	mh2	324	Owned	~~	Foil	3	~~	~~	~~	Artifact — Equipment
 Golos, Tireless Pilgrim	m20	226	Owned	~~	Non-foil	5	B,G,R,U,W	~~	~~	Legendary Artifact Creature — Scout
+Solemn Simulacrum	tsr	400	Owned	~~	Foil	4	~~	~~	~~	Artifact Creature — Golem
+Spellskite	nph	159	Owned	~~	Non-foil	2	U	~~	~~	Artifact Creature — Phyrexian Horror
 Raging Ravine	puma	U38	Owned	~~	Foil	0	R,G	~~	~~	Land
 Faerie Artisans	c16	8	Owned	~~	Non-foil	4	U	~~	~~	Creature — Faerie Artificer
 Expansion // Explosion	grn	224	Owned	~~	Non-foil	6	R,U	~~	~~	Instant
@@ -475,6 +478,7 @@ Atraxa, Grand Unifier	one	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ethersworn Sphinx	mh2	195	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Velomachus Lorehold	stx	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Memory Lapse	7ed	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mimic Vat	som	175	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sea Gate Stormcaller	znr	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Timeless Dragon	mh2	388	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Solve the Equation	stx	54	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -486,11 +490,13 @@ Thassa's Intervention	thb	72	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Portent	c18	97	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Epic Experiment	c15	216	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nighthawk Scavenger	znr	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Eater of Virtue	neo	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dread Return	c14	142	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Priest of Fell Rites	mh2	208	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Palinchron	vma	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Electrolyze	sta	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anger of the Gods	tsr	339	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Pithing Needle	mid	257	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Garruk Relentless	v17	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia and Kiran Nalaar	ddu	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Charmbreaker Devils	c20	147	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -525,6 +531,7 @@ Faerie Vandal	znc	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fiend Artisan	iko	220	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Extinction Event	iko	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Embereth Shieldbreaker	eld	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Golos, Tireless Pilgrim	m20	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mutavault	mor	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Library of Alexandria	vma	303	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Field of the Dead	m20	247	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -532,16 +539,8 @@ Bazaar of Baghdad	vma	294	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Savai Triome	iko	253	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jetmir's Garden	snc	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ziatora's Proving Ground	snc	261	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mana Crypt	ema	225	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Raffine's Tower	snc	254	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ziatora's Proving Ground	snc	261	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lavaclaw Reaches	uma	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Creeping Tar Pit	uma	239	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Black Lotus	vma	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Everflowing Chalice	cm2	188	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lodestone Golem	mm2	219	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Skullclamp	c17	222	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Retrofitter Foundry	c18	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of Fire and Ice	dst	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of Body and Mind	som	208	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Tangle Wire	nem	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Coercive Portal	vma	266	~~	~~	~~	"""~~"""	~~	~~	~~	~~
