@@ -908,3 +908,6 @@ Timestamp	Board	ChangeType	Name
 2022-07-17T17:42:23.107+00:00	mainboard	add	Expansion // Explosion
 2022-07-17T17:42:23.107+00:00	mainboard	add	Frost Titan
 2022-07-17T17:43:50.726+00:00	mainboard	add	Progenitus
+2022-07-17T17:47:09.342+00:00	mainboard	remove	Jokulhaups
+2022-07-17T17:47:09.342+00:00	mainboard	remove	Faerie Artisans
+2022-07-17T17:47:09.342+00:00	mainboard	remove	Avacyn's Pilgrim
