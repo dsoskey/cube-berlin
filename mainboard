@@ -469,8 +469,15 @@ Creeping Tar Pit	puma	U34	Owned	~~	Foil	0	U,B	~~	~~	Land
 Raging Ravine	puma	U38	Owned	~~	Foil	0	R,G	~~	~~	Land
 Faerie Artisans	c16	8	Owned	~~	Non-foil	4	U	~~	~~	Creature — Faerie Artificer
 Jokulhaups	5ed	246	Owned	~~	Non-foil	6	R	~~	~~	Sorcery
+The Great Henge	eld	161	Owned	~~	Non-foil	9	G	~~	~~	Legendary Artifact
 Faerie Artisans	c16	8	Owned	~~	Non-foil	4	U	~~	~~	Creature — Faerie Artificer
+Nissa, Vastwood Seer	v17	15	Owned	~~	Non-foil	3	G	~~	~~	Legendary Creature — Elf Scout
+Liliana, Heretical Healer	ori	106	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Human Cleric
+Leovold, Emissary of Trest	cn2	77	Owned	~~	Non-foil	3	B,G,U	~~	~~	Legendary Creature — Elf Advisor
+Emry, Lurker of the Loch	slc	2019	Owned	~~	Foil	3	U	~~	~~	Legendary Creature — Merfolk Wizard
 Expansion // Explosion	grn	224	Owned	~~	Non-foil	6	R,U	~~	~~	Instant
+Frost Titan	m11	55	Owned	~~	Non-foil	6	U	~~	~~	Creature — Giant
+Putrid Imp	tor	77	Owned	~~	Non-foil	1	B	~~	~~	Creature — Zombie Imp
 Commit // Memory	akh	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Leonin Relic-Warder	c17	65	Owned	~~	Non-foil	2	W	~~	~~	Creature — Cat Cleric
 Leonin Relic-Warder	c17	65	Owned	~~	Non-foil	2	W	~~	~~	Creature — Cat Cleric
@@ -531,6 +538,7 @@ Soul-Scar Mage	akh	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 True-Name Nemesis	tsr	321	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tireless Provisioner			~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya Elder	mic	147	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Vivien, Monsters' Advocate	iko	277	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Banishing Light	khc	19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Containment Priest	uma	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fireball	m10	136	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -538,4 +546,8 @@ Faerie Vandal	znc	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fiend Artisan	iko	220	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Extinction Event	iko	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Embereth Shieldbreaker	eld	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Expansion // Explosion	pgrn	224s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soulfire Grand Master	frf	27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Jokulhaups	ice	195	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Faerie Artisans	c16	8	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Avacyn's Pilgrim	isd	170	~~	~~	~~	"""~~"""	~~	~~	~~	~~
