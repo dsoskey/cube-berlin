@@ -914,3 +914,7 @@ Timestamp	Board	ChangeType	Name
 2022-07-17T19:31:24.187+00:00	mainboard	remove	Expansion // Explosion
 2022-07-17T19:31:24.187+00:00	mainboard	remove	Soulfire Grand Master
 2022-07-17T19:31:48.382+00:00	mainboard	remove	Embereth Shieldbreaker
+2022-07-31T22:06:01.351+00:00	mainboard	remove	Extinction Event
+2022-07-31T22:06:01.351+00:00	mainboard	add	Yawgmoth, Thran Physician
+2022-07-31T22:06:01.351+00:00	mainboard	add	Yawgmoth's Will
+2022-07-31T22:06:01.351+00:00	mainboard	add	Putrid Imp
