@@ -932,3 +932,6 @@ Timestamp	Board	ChangeType	Name
 2022-08-08T13:24:26.174+00:00	mainboard	remove	Avacyn's Pilgrim
 2022-08-08T13:33:10.512+00:00	mainboard	remove	Expansion // Explosion
 2022-08-08T13:35:28.103+00:00	mainboard	remove	Containment Priest
+2022-08-08T13:36:03.055+00:00	mainboard	remove	Legion's Landing
+2022-08-08T13:36:03.055+00:00	mainboard	add	Solitude
+2022-08-08T13:36:03.055+00:00	mainboard	add	Leonin Relic-Warder
