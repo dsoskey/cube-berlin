@@ -998,3 +998,6 @@ Timestamp	Board	ChangeType	Name
 2022-11-10T20:45:52.831+00:00	mainboard	remove	Power Word Kill
 2022-11-10T20:45:52.831+00:00	mainboard	add	Mystic Confluence
 2022-11-10T20:45:52.831+00:00	mainboard	add	Everflowing Chalice
+2022-11-10T20:51:56.110+00:00	mainboard	remove	Bloodthirsty Adversary
+2022-11-10T20:51:56.110+00:00	mainboard	add	Fury
+2022-11-10T20:51:56.110+00:00	mainboard	add	Dreadhorde Arcanist
