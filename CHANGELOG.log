@@ -1005,3 +1005,4 @@ Timestamp	Board	ChangeType	Name
 2022-11-10T20:56:46.568+00:00	mainboard	add	Leyline Binding
 2022-11-10T20:56:46.568+00:00	mainboard	add	Temporary Lockdown
 2022-11-10T21:02:14.401+00:00	mainboard	add	Containment Priest
+2022-11-10T21:05:12.756+00:00	mainboard	remove	Luminarch Aspirant
