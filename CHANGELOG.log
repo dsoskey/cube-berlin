@@ -988,3 +988,13 @@ Timestamp	Board	ChangeType	Name
 2022-10-17T01:24:43.244+00:00	mainboard	add	Elvish Reclaimer
 2022-10-17T01:24:43.244+00:00	mainboard	add	Mystical Tutor
 2022-10-20T00:27:29.205+00:00	mainboard	add	Grist, the Hunger Tide
+2022-11-10T20:45:52.831+00:00	mainboard	remove	Thirst for Discovery
+2022-11-10T20:45:52.831+00:00	mainboard	remove	Magus of the Order
+2022-11-10T20:45:52.831+00:00	mainboard	remove	Prime Speaker Vannifar
+2022-11-10T20:45:52.831+00:00	mainboard	remove	Satoru Umezawa
+2022-11-10T20:45:52.831+00:00	mainboard	remove	Swift Reconfiguration
+2022-11-10T20:45:52.831+00:00	mainboard	remove	Skyclave Shade
+2022-11-10T20:45:52.831+00:00	mainboard	remove	Sheoldred, Whispering One
+2022-11-10T20:45:52.831+00:00	mainboard	remove	Power Word Kill
+2022-11-10T20:45:52.831+00:00	mainboard	add	Mystic Confluence
+2022-11-10T20:45:52.831+00:00	mainboard	add	Everflowing Chalice
