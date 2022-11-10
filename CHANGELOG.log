@@ -1018,3 +1018,5 @@ Timestamp	Board	ChangeType	Name
 2022-11-10T21:43:59.633+00:00	mainboard	add	Dismember
 2022-11-10T21:47:44.894+00:00	mainboard	add	Ashen Rider
 2022-11-10T21:47:44.894+00:00	mainboard	add	Yawgmoth's Bargain
+2022-11-10T21:49:08.010+00:00	mainboard	remove	Yawgmoth's Bargain
+2022-11-10T21:49:08.010+00:00	mainboard	add	Night's Whisper
