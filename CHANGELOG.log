@@ -1033,3 +1033,5 @@ Timestamp	Board	ChangeType	Name
 2022-11-10T23:23:32.731+00:00	mainboard	add	Chandra, Torch of Defiance
 2022-11-10T23:25:27.189+00:00	mainboard	remove	Anger of the Gods
 2022-11-11T19:15:15.018+00:00	mainboard	add	Library of Alexandria
+2022-11-13T16:50:46.931+00:00	mainboard	remove	Electrolyze
+2022-11-13T16:50:46.931+00:00	mainboard	add	Prismari Command
