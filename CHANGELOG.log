@@ -1035,3 +1035,5 @@ Timestamp	Board	ChangeType	Name
 2022-11-11T19:15:15.018+00:00	mainboard	add	Library of Alexandria
 2022-11-13T16:50:46.931+00:00	mainboard	remove	Electrolyze
 2022-11-13T16:50:46.931+00:00	mainboard	add	Prismari Command
+2022-12-06T12:31:08.504+00:00	mainboard	remove	Avacyn's Pilgrim
+2022-12-06T12:31:08.504+00:00	mainboard	add	Wall of Roots
