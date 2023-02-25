@@ -1061,3 +1061,6 @@ Timestamp	Board	ChangeType	Name
 2023-02-16T05:26:09.401+00:00	mainboard	remove	Archivist of Oghma
 2023-02-25T19:57:19.802+00:00	mainboard	add	Sheoldred, the Apocalypse
 2023-02-25T19:58:54.203+00:00	mainboard	add	Vampire Hexmage
+2023-02-25T20:18:55.505+00:00	mainboard	remove	Timeless Dragon
+2023-02-25T20:18:55.505+00:00	mainboard	remove	Solve the Equation
+2023-02-25T20:18:55.505+00:00	mainboard	add	Elesh Norn, Mother of Machines
