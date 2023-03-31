@@ -88,7 +88,7 @@ Cabal Ritual	v16	2	Proxied	New	Non-foil	2	B	~~	~~	Instant
 Shallow Grave	mir	141	Proxied	New	Non-foil	2	B	~~	~~	Instant
 Hero's Downfall	ths	90	Owned	New	Non-foil	3	B	~~	~~	Instant
 Makeshift Mannequin	arc	20	Owned	New	Non-foil	4	B	~~	~~	Instant
-Duress	usg	132	Owned	New	Non-foil	1	B	~~	~~	Sorcery
+Duress	pal00	2	Owned	New	Foil	1	B	~~	~~	Sorcery
 Imperial Seal	me2	96	Proxied	New	Non-foil	1	B	~~	~~	Sorcery
 Inquisition of Kozilek	2x2	355	Owned	New	Foil	1	B	~~	~~	Sorcery
 Reanimate	uma	110	Owned	New	Non-foil	1	B	~~	~~	Sorcery
@@ -142,7 +142,7 @@ Courser of Kruphix	tsr	359	Owned	New	Foil	3	G	~~	~~	Enchantment Creature — Cen
 Eternal Witness	uma	163	Owned	New	Non-foil	3	G	~~	~~	Creature — Human Shaman
 Ramunap Excavator	hou	129	Owned	New	Non-foil	3	G	~~	~~	Creature — Naga Cleric
 Reclamation Sage	c18	159	Owned	New	Non-foil	3	G	~~	~~	Creature — Elf Shaman
-Tireless Tracker	soi	233	Proxied	New	Non-foil	3	G	~~	~~	Creature — Human Scout
+Tireless Tracker	soi	233	Owned	New	Non-foil	3	G	~~	~~	Creature — Human Scout
 Oracle of Mul Daya	zen	172	Owned	New	Non-foil	4	G	~~	~~	Creature — Elf Shaman
 Acidic Slime	c18	127	Owned	New	Non-foil	5	G	~~	~~	Creature — Ooze
 Thragtusk	tsr	368	Owned	New	Non-foil	5	G	~~	~~	Creature — Beast
@@ -244,7 +244,7 @@ Lion's Eye Diamond	mir	307	Proxied	New	Non-foil	0	~~	~~	~~	Artifact
 Lotus Bloom	tsr	411	Owned	New	Foil	0	~~	~~	~~	Artifact
 Mana Crypt	vma	272	Proxied	New	Non-foil	0	~~	~~	~~	Artifact
 Mox Diamond	tpr	228	Proxied	New	Non-foil	0	~~	~~	~~	Artifact
-Mana Vault	uma	229	Proxied	New	Non-foil	1	~~	~~	~~	Artifact
+Mana Vault	puma	U29	Owned	New	Foil	1	~~	~~	~~	Artifact
 Relic of Progenitus	brc	157	Owned	New	Non-foil	1	~~	~~	~~	Artifact
 Sensei's Divining Top	2x2	398	Owned	New	Non-foil	1	~~	~~	~~	Artifact
 Sol Ring	plg22	1	Owned	New	Foil	1	~~	~~	~~	Artifact
@@ -338,7 +338,7 @@ Utopia Sprawl	a25	192	Owned	~~	Non-foil	1	G	~~	~~	Enchantment — Aura
 Crop Rotation	ddr	7	Owned	~~	Non-foil	1	G	~~	~~	Instant
 Hornet Queen	m15	178	Owned	~~	Non-foil	7	G	~~	~~	Creature — Insect
 Pest Infestation	c21	65	Owned	~~	Non-foil	1	G	~~	~~	Sorcery
-Life from the Loam	rav	172	Proxied	~~	Non-foil	2	G	~~	~~	Sorcery
+Life from the Loam	sld	8	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
 Lurrus of the Dream-Den	iko	226	Owned	~~	Non-foil	3	B,W	~~	~~	Legendary Creature — Cat Nightmare
 Escape to the Wilds	eld	189	Owned	~~	Non-foil	5	G,R	~~	~~	Sorcery
 Dark Depths	dmr	394	Owned	~~	Foil	0	~~	~~	~~	Legendary Snow Land
