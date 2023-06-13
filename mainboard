@@ -48,10 +48,10 @@ Tezzeret the Seeker	med	WS4	Owned	New	Foil	5	U	~~	~~	Legendary Planeswalker — 
 Brainstorm	c18	82	Owned	New	Non-foil	1	U	~~	~~	Instant
 High Tide	fem	18c	Owned	New	Non-foil	1	U	~~	~~	Instant
 Spell Pierce	xln	81	Owned	New	Non-foil	1	U	~~	~~	Instant
-Brain Freeze	scg	29	Proxied	New	Non-foil	2	U	~~	~~	Instant
+Brain Freeze	scg	29	Owned	New	Non-foil	2	U	~~	~~	Instant
 Counterspell	ema	43	Owned	New	Non-foil	2	U	~~	~~	Instant
 Daze	jvc	23	Owned	New	Non-foil	2	U	~~	~~	Instant
-Mana Drain	ima	65	Proxied	New	Non-foil	2	U	~~	~~	Instant
+Mana Drain	2x2	348	Owned	New	Foil	2	U	~~	~~	Instant
 Mana Leak	sth	36	Owned	New	Non-foil	2	U	~~	~~	Instant
 Miscalculation	ulg	36	Owned	New	Non-foil	2	U	~~	~~	Instant
 Remand	tsr	316	Owned	New	Non-foil	2	U	~~	~~	Instant
@@ -79,7 +79,7 @@ Gonti, Lord of Luxury	kld	84	Owned	New	Non-foil	4	B	~~	~~	Legendary Creature —
 Shriekmaw	tsr	331	Owned	New	Non-foil	5	B	~~	~~	Creature — Elemental
 Grave Titan	m11	97	Owned	New	Non-foil	6	B	~~	~~	Creature — Giant
 Massacre Wurm	m21	316	Owned	New	Non-foil	6	B	~~	~~	Creature — Wurm
-Griselbrand	mm3	72	Proxied	New	Non-foil	8	B	~~	~~	Legendary Creature — Demon
+Griselbrand	mm3	72	Owned	New	Non-foil	8	B	~~	~~	Legendary Creature — Demon
 Liliana of the Veil	dmu	373	Owned	New	Non-foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Dark Ritual	tmp	118	Owned	New	Non-foil	1	B	~~	~~	Instant
 Entomb	uma	94	Owned	New	Non-foil	1	B	~~	~~	Instant
@@ -130,7 +130,7 @@ Sneak Attack	dmr	331	Owned	New	Foil	4	R	~~	~~	Enchantment
 Splinter Twin	mm2	129	Owned	New	Non-foil	4	R	~~	~~	Enchantment — Aura
 Arbor Elf	a25	160	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Birds of Paradise	gk2	82	Owned	New	Non-foil	1	G	~~	~~	Creature — Bird
-Elvish Mystic	ddu	7	Proxied	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
+Elvish Mystic	ddu	7	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Fyndhorn Elves	p30a	3	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Joraga Treespeaker	roe	190	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Llanowar Elves	gnt	46	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
@@ -261,7 +261,7 @@ Selesnya Signet	sld	290	Owned	New	Foil	2	G,W	~~	~~	Artifact
 Simic Signet	sld	295	Owned	New	Foil	2	G,U	~~	~~	Artifact
 Smuggler's Copter	kld	235	Owned	New	Non-foil	2	~~	~~	~~	Artifact — Vehicle
 Umezawa's Jitte	v16	14	Owned	New	Foil	2	~~	~~	~~	Legendary Artifact — Equipment
-Winter Orb	ema	234	Proxied	New	Non-foil	2	~~	~~	~~	Artifact
+Winter Orb	ema	234	Owned	New	Non-foil	2	~~	~~	~~	Artifact
 Basalt Monolith	cma	210	Owned	New	Non-foil	3	~~	~~	~~	Artifact
 Coalition Relic	tsr	266	Owned	New	Non-foil	3	~~	~~	~~	Artifact
 Crucible of Worlds	2x2	303	Owned	New	Non-foil	3	~~	~~	~~	Artifact
@@ -282,7 +282,7 @@ Strip Mine	sld	472	Owned	New	Foil	0	~~	~~	~~	Land
 Wasteland	zne	30	Owned	New	Non-foil	0	~~	~~	~~	Land
 Giver of Runes	mh1	13	Owned	~~	Non-foil	1	W	~~	~~	Creature — Kor Cleric
 Thraben Inspector	tsr	305	Owned	~~	Foil	1	W	~~	~~	Creature — Human Soldier
-Narset, Parter of Veils	war	61	Proxied	~~	Non-foil	3	U	~~	~~	Legendary Planeswalker — Narset
+Narset, Parter of Veils	war	61	Owned	~~	Non-foil	3	U	~~	~~	Legendary Planeswalker — Narset
 Force of Negation	mh1	52	Owned	~~	Non-foil	3	U	~~	~~	Instant
 Urza, Lord High Artificer	h1r	11	Owned	~~	Etched	4	U	~~	~~	Legendary Creature — Human Artificer
 Brazen Borrower	eld	39	Proxied	~~	Non-foil	3	U	~~	~~	Creature — Faerie Rogue 
