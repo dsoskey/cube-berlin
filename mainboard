@@ -186,9 +186,9 @@ Copperline Gorge	one	371	Owned	New	Foil	0	R,G	~~	~~	Land
 Stomping Ground	unf	280	Owned	New	Non-foil	0	R,G	~~	~~	Land — Mountain Forest
 Taiga	vma	317	Proxied	New	Non-foil	0	R,G	~~	~~	Land — Mountain Forest
 Wooded Foothills	zne	4	Owned	New	Non-foil	0	~~	~~	~~	Land
-Kitchen Finks	uma	216	Owned	New	Non-foil	3	W,G	~~	~~	Creature — Ouphe
+Kitchen Finks	puma	U27	Owned	New	Foil	3	W,G	~~	~~	Creature — Ouphe
 Knight of Autumn	afc	187	Owned	New	Non-foil	3	W,G	~~	~~	Creature — Dryad Knight
-Mirari's Wake	c17	181	Owned	New	Non-foil	5	W,G	~~	~~	Enchantment
+Mirari's Wake	mh2	320	Owned	New	Foil	5	W,G	~~	~~	Enchantment
 Razorverge Thicket	one	373	Owned	New	Foil	0	W,G	~~	~~	Land
 Savannah	vma	311	Proxied	New	Non-foil	0	W,G	~~	~~	Land — Forest Plains
 Temple Garden	unf	281	Owned	New	Non-foil	0	W,G	~~	~~	Land — Forest Plains
@@ -301,8 +301,8 @@ Elder Gargaroth	m21	179	Owned	~~	Non-foil	5	G	~~	~~	Creature — Beast
 Thieving Skydiver	znr	85	Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Rogue
 Bloodchief's Thirst	znr	94	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Hexdrinker	mh1	168	Owned	~~	Non-foil	1	G	~~	~~	Creature — Snake
-Omnath, Locus of Creation	znr	232	Owned	~~	Non-foil	4	W,U,B,R,G	~~	~~	Legendary Creature — Elemental
-Timeless Lotus	dmu	239	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Omnath, Locus of Creation	znr	312	Owned	~~	Foil	4	W,U,B,R,G	~~	~~	Legendary Creature — Elemental
+Timeless Lotus	dmu	239	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Goldspan Dragon	khm	139	Proxied	~~	Non-foil	5	R	~~	~~	Creature — Dragon
 Elite Spellbinder	stx	17	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Palace Jailer	tsr	298	Owned	~~	Foil	4	W	~~	~~	Creature — Human Soldier
@@ -356,7 +356,7 @@ Exploration	cns	164	Proxied	~~	Non-foil	1	G	~~	~~	Enchantment
 Dryad of the Ilysian Grove	thb	169	Owned	~~	Non-foil	3	G	~~	~~	Enchantment Creature — Nymph Dryad
 Unlicensed Hearse	snc	246	Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Vehicle
 Kaito Shizuki	neo	424	Owned	~~	Etched	3	U,B	~~	~~	Legendary Planeswalker — Kaito
-Yorion, Sky Nomad	iko	232	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Yorion, Sky Nomad	mul	194	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Spara's Headquarters	snc	257	Owned	~~	Foil	0	W,U,G	~~	~~	Land — Forest Plains Island
 Xander's Lounge	snc	294	Owned	~~	Non-foil	0	U,B,R	~~	~~	Land — Island Swamp Mountain
 Ketria Triome	iko	310	Owned	~~	Non-foil	0	U,R,G	~~	~~	Land — Forest Island Mountain
@@ -385,11 +385,11 @@ Unexpectedly Absent	cma	27	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Charming Prince	eld	8	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Noble
 Adeline, Resplendent Cathar	mid	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lingering Souls	tsr	296	Owned	~~	Non-foil	3	B,W	~~	~~	Sorcery
-Aetherflux Reservoir	kld	192	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Aetherflux Reservoir	kld	192	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Slash the Ranks	cmr	47	Owned	~~	Non-foil	5	W	~~	~~	Sorcery
 Wheel of Fortune	sum	185	Proxied	~~	Non-foil	3	R	~~	~~	Sorcery
 Kogla, the Titan Ape	iko	162	Owned	~~	Non-foil	6	G	~~	~~	Legendary Creature — Ape
-Gemrazer	iko	155	Owned	~~	Non-foil	4	G	~~	~~	Creature — Beast
+Gemrazer	iko	295	Owned	~~	Non-foil	4	G	~~	~~	Creature — Beast
 Abundant Harvest	sta	48	Owned	~~	Non-foil	1	G	~~	~~	Sorcery
 Lotus Cobra	znr	307	Owned	~~	Foil	2	G	~~	~~	Creature — Snake
 Fatal Push	2xm	93	Owned	~~	Non-foil	1	B	~~	~~	Instant
@@ -410,7 +410,7 @@ Delver of Secrets	isd	51	Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Wizard
 Delver of Secrets	isd	51	Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Wizard
 Thing in the Ice	soi	92	Owned	~~	Non-foil	2	U	~~	~~	Creature — Horror
 Thassa's Oracle	thb	73	Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Wizard
-Rona, Herald of Invasion	mom	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rona, Herald of Invasion	mom	75	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Thirst for Knowledge	mrd	53	Owned	~~	Non-foil	3	U	~~	~~	Instant
 Compulsive Research	sta	14	Owned	consider	Non-foil	3	U	~~	~~	Sorcery
 Compulsive Research	sta	14	Owned	consider	Non-foil	3	U	~~	~~	Sorcery
@@ -426,7 +426,6 @@ Thassa's Oracle	thb	73	Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Wizard
 Thing in the Ice	soi	92	Owned	~~	Non-foil	2	U	~~	~~	Creature — Horror
 Assassin's Trophy	2x2	474	Owned	~~	Etched	2	B,G	~~	~~	Instant
 Fire // Ice	mh2	290	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
-Vanishing Verse	stx	244	Owned	consider	Non-foil	2	W,B	~~	~~	Instant
 Growth Spiral	cmr	446	Owned	~~	Non-foil	2	G,U	~~	~~	Instant
 Soulherder	khc	93	Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Spirit
 Soulherder	khc	93	Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Spirit
@@ -438,8 +437,7 @@ Culling Ritual	stx	337	Owned	~~	Foil	4	B,G	~~	~~	Sorcery
 Klothys, God of Destiny	thb	220	Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Enchantment Creature — God
 Lutri, the Spellchaser	mul	182	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Elemental Otter
 Trygon Predator	tsr	389	Owned	~~	Foil	3	U,G	~~	~~	Creature — Beast
-Obosh, the Preypiercer	iko	228	Owned	~~	Non-foil	5	B,R	~~	~~	Legendary Creature — Hellion Horror
-Knight of the Reliquary	con	113	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Knight of the Reliquary	ima	203	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Koma, Cosmos Serpent	khm	326	Owned	~~	Non-foil	7	U,G	~~	~~	Legendary Creature — Serpent
 Bring to Light	bfz	209	Owned	consider	Non-foil	5	U,G	~~	~~	Sorcery
 Usher of the Fallen	khm	35	Owned	~~	Non-foil	1	W	~~	~~	Creature — Spirit Warrior
@@ -544,10 +542,11 @@ Ziatora's Proving Ground	snc	295	Owned	~~	Non-foil	0	B,R,G	~~	~~	Land — Swamp 
 Lavaclaw Reaches	puma	U37	Owned	~~	Foil	0	B,R	~~	~~	Land
 Savai Triome	iko	312	Owned	~~	Non-foil	0	W,B,R	~~	~~	Land — Mountain Plains Swamp
 Custodi Lich	cn2	41	Owned	~~	Non-foil	5	B	~~	~~	Creature — Zombie Cleric
-Sheoldred, the Apocalypse	dmu	435	Owned	~~	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
+Sheoldred, the Apocalypse	dmu	436	Owned	~~	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
 Vampire Hexmage	tsr	335	Owned	~~	Foil	2	B	~~	~~	Creature — Vampire Shaman
 Elesh Norn, Mother of Machines	one	415	Owned	~~	Non-foil	5	W	~~	~~	Legendary Creature — Phyrexian Praetor
 Underworld Breach	thb	161	Owned	~~	Non-foil	2	R	~~	~~	Enchantment
 Sword of Forge and Frontier	one	244	Owned	~~	Foil	3	~~	~~	~~	Artifact — Equipment
 Mishra's Bauble	brr	97	Owned	~~	Foil	0	~~	~~	~~	Artifact
+Faerie Mastermind	mom	58	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Atraxa, Grand Unifier	one	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
