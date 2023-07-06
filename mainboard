@@ -176,7 +176,7 @@ Polluted Delta	zne	2	Owned	New	Non-foil	0	~~	~~	~~	Land
 Underground Sea	vma	323	Proxied	New	Non-foil	0	U,B	~~	~~	Land — Island Swamp
 Watery Grave	unf	278	Owned	New	Non-foil	0	U,B	~~	~~	Land — Island Swamp
 Daretti, Ingenious Iconoclast	med	GR3	Owned	New	Foil	3	B,R	~~	~~	Legendary Planeswalker — Daretti
-Kolaghan's Command	dtk	224	Owned	New	Non-foil	3	B,R	~~	~~	Instant
+Kolaghan's Command	2x2	381	Owned	New	Foil	3	B,R	~~	~~	Instant
 Badlands	vma	291	Proxied	New	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
 Blackcleave Cliffs	one	370	Owned	New	Foil	0	B,R	~~	~~	Land
 Blood Crypt	unf	279	Owned	New	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
@@ -425,15 +425,15 @@ Thassa's Oracle	thb	73	Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Wizard
 Thing in the Ice	soi	92	Owned	~~	Non-foil	2	U	~~	~~	Creature — Horror
 Assassin's Trophy	2x2	474	Owned	~~	Etched	2	B,G	~~	~~	Instant
 Fire // Ice	mh2	290	Owned	~~	Non-foil	4	R,U	~~	~~	Instant
-Growth Spiral	cmr	446	Owned	~~	Non-foil	2	G,U	~~	~~	Instant
+Growth Spiral	sta	61	Owned	~~	Non-foil	2	G,U	~~	~~	Instant
 Soulherder	khc	93	Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Spirit
 Soulherder	khc	93	Owned	~~	Non-foil	3	U,W	~~	~~	Creature — Spirit
 Gaddock Teeg	puma	U21	Owned	~~	Foil	2	W,G	~~	~~	Legendary Creature — Kithkin Advisor
 Territorial Kavu	mh2	216	Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Kavu
 Ajani Vengeant	ala	154	Proxied	~~	Non-foil	4	R,W	~~	~~	Legendary Planeswalker — Ajani
 Geyadrone Dihada	mh2	199	Owned	~~	Non-foil	4	B,R,U	~~	~~	Legendary Planeswalker — Dihada
-Culling Ritual	stx	337	Owned	~~	Foil	4	B,G	~~	~~	Sorcery
-Klothys, God of Destiny	thb	220	Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Enchantment Creature — God
+Culling Ritual	stx	172	Owned	~~	Foil	4	B,G	~~	~~	Sorcery
+Klothys, God of Destiny	thb	268	Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Enchantment Creature — God
 Lutri, the Spellchaser	mul	182	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Elemental Otter
 Trygon Predator	tsr	389	Owned	~~	Foil	3	U,G	~~	~~	Creature — Beast
 Knight of the Reliquary	ima	203	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -522,7 +522,7 @@ Temporary Lockdown	dmu	36	Owned	~~	Foil	3	W	~~	~~	Enchantment
 Temporary Lockdown	dmu	36	Owned	~~	Foil	3	W	~~	~~	Enchantment
 Mind Twist	leb	116	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Dismember	tsr	322	Owned	~~	Non-foil	3	B	~~	~~	Instant
-Ashen Rider	2x2	173	Owned	~~	Non-foil	8	B,W	~~	~~	Creature — Archon
+Ashen Rider	2x2	472	Owned	~~	Etched	8	B,W	~~	~~	Creature — Archon
 Night's Whisper	dmc	115	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Endurance	mh2	317	Proxied	~~	Non-foil	3	G	~~	~~	Creature — Elemental Incarnation
 Titania, Protector of Argoth	mh2	287	Owned	~~	Non-foil	5	G	~~	~~	Legendary Creature — Elemental
