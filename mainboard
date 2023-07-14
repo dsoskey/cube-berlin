@@ -45,7 +45,7 @@ Consecrated Sphinx	2x2	345	Owned	New	Non-foil	6	U	~~	~~	Creature — Sphinx
 Inkwell Leviathan	c18	91	Owned	New	Non-foil	9	U	~~	~~	Artifact Creature — Leviathan
 Inkwell Leviathan	c18	91	Owned	New	Non-foil	9	U	~~	~~	Artifact Creature — Leviathan
 Tezzeret the Seeker	med	WS4	Owned	New	Foil	5	U	~~	~~	Legendary Planeswalker — Tezzeret
-Brainstorm	c18	82	Owned	New	Non-foil	1	U	~~	~~	Instant
+Brainstorm	mmq	61	Owned	New	Non-foil	1	U	~~	~~	Instant
 High Tide	fem	18c	Owned	New	Non-foil	1	U	~~	~~	Instant
 Spell Pierce	xln	81	Owned	New	Non-foil	1	U	~~	~~	Instant
 Brain Freeze	scg	29	Owned	New	Non-foil	2	U	~~	~~	Instant
@@ -470,7 +470,7 @@ Liliana, Heretical Healer	ori	106	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature
 Leovold, Emissary of Trest	cn2	77	Owned	~~	Non-foil	3	B,G,U	~~	~~	Legendary Creature — Elf Advisor
 Emry, Lurker of the Loch	slc	2019	Owned	~~	Foil	3	U	~~	~~	Legendary Creature — Merfolk Wizard
 Expansion // Explosion	grn	224	Owned	~~	Non-foil	6	R,U	~~	~~	Instant
-Frost Titan	m11	55	Owned	~~	Non-foil	6	U	~~	~~	Creature — Giant
+Vendilion Clique	mor	55	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yawgmoth, Thran Physician	dmr	315	Owned	~~	Foil	4	B	~~	~~	Legendary Creature — Human Cleric
 Yawgmoth's Will	usg	171	Owned	~~	Non-foil	3	B	~~	~~	Sorcery
 Putrid Imp	tor	77	Owned	~~	Non-foil	1	B	~~	~~	Creature — Zombie Imp
@@ -550,5 +550,5 @@ Mishra's Bauble	brr	97	Owned	~~	Foil	0	~~	~~	~~	Artifact
 Faerie Mastermind	mom	352	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jadar, Ghoulcaller of Nephalia	mid	108	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Boon-Bringer Valkyrie	mom	343	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Saheeli, Sublime Artificer	war	234	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Saheeli, Sublime Artificer	sld	534	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Atraxa, Grand Unifier	one	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
