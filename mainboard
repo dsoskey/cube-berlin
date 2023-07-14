@@ -347,7 +347,7 @@ Silent Clearing	mh1	246	Proxied	~~	Non-foil	0	B,W	~~	~~	Land
 Nurturing Peatland	mh1	243	Proxied	~~	Non-foil	0	B,G	~~	~~	Land
 Waterlogged Grove	mh1	249	Proxied	~~	Non-foil	0	G,U	~~	~~	Land
 Fiery Islet	mh1	238	Proxied	~~	Non-foil	0	R,U	~~	~~	Land
-Sunbaked Canyon	mh1	247	Proxied	~~	Non-foil	0	R,W	~~	~~	Land
+Sunbaked Canyon	mh1	247	Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Oblivion Ring	td0	A12	Owned	~~	Non-foil	3	W	~~	~~	Enchantment
 Bone Shards	mh2	395	Owned	~~	Foil	1	B	~~	~~	Sorcery
 Corpse Dance	tmp	116	Proxied	~~	Non-foil	3	B	~~	~~	Instant
