@@ -147,7 +147,7 @@ Oracle of Mul Daya	zen	172	Owned	New	Non-foil	4	G	~~	~~	Creature — Elf Shaman
 Acidic Slime	p30a	17	Owned	New	Foil	5	G	~~	~~	Creature — Ooze
 Thragtusk	tsr	368	Owned	New	Non-foil	5	G	~~	~~	Creature — Beast
 Primeval Titan	ima	183	Owned	New	Non-foil	6	G	~~	~~	Creature — Giant
-Avenger of Zendikar	c18	129	Proxied	New	Non-foil	7	G	~~	~~	Creature — Elemental
+Avenger of Zendikar	c18	129	Owned	New	Non-foil	7	G	~~	~~	Creature — Elemental
 Craterhoof Behemoth	mm3	122	Proxied	New	Non-foil	8	G	~~	~~	Creature — Beast
 Terastodon	pres	A6	Owned	New	Foil	8	G	~~	~~	Creature — Elephant
 Woodfall Primus	uma	195	Owned	New	Non-foil	8	G	~~	~~	Creature — Treefolk Shaman
@@ -237,7 +237,7 @@ Coercive Portal	cns	56	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wurmcoil Engine	brr	63	Owned	New	Foil	6	~~	~~	~~	Artifact Creature — Wurm
 Myr Battlesphere	brc	151	Owned	New	Non-foil	7	~~	~~	~~	Artifact Creature — Myr Construct
 Sundering Titan	brr	57	Owned	New	Foil	8	~~	~~	~~	Artifact Creature — Golem
-Walking Ballista	aer	181	Proxied	New	Non-foil	0	~~	~~	~~	Artifact Creature — Construct
+Walking Ballista	aer	181	Owned	New	Non-foil	0	~~	~~	~~	Artifact Creature — Construct
 Blightsteel Colossus	2xm	357	Owned	New	Foil	12	~~	~~	~~	Artifact Creature — Golem
 Chrome Mox	slc	2003	Owned	New	Foil	0	~~	~~	~~	Artifact
 Lion's Eye Diamond	mir	307	Proxied	New	Non-foil	0	~~	~~	~~	Artifact
@@ -342,9 +342,9 @@ Escape to the Wilds	eld	189	Owned	~~	Foil	5	G,R	~~	~~	Sorcery
 Dark Depths	dmr	394	Owned	~~	Foil	0	~~	~~	~~	Legendary Snow Land
 Thespian's Stage	uma	253	Owned	~~	Non-foil	0	~~	~~	~~	Land
 Horizon Canopy	zne	26	Proxied	~~	Non-foil	0	G,W	~~	~~	Land
-Silent Clearing	mh1	246	Proxied	~~	Non-foil	0	B,W	~~	~~	Land
+Silent Clearing	mh1	246	Owned	~~	Non-foil	0	B,W	~~	~~	Land
 Nurturing Peatland	mh1	243	Proxied	~~	Non-foil	0	B,G	~~	~~	Land
-Waterlogged Grove	mh1	249	Proxied	~~	Non-foil	0	G,U	~~	~~	Land
+Waterlogged Grove	mh1	249	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Fiery Islet	mh1	238	Proxied	~~	Non-foil	0	R,U	~~	~~	Land
 Sunbaked Canyon	mh1	247	Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Oblivion Ring	td0	A12	Owned	~~	Non-foil	3	W	~~	~~	Enchantment
