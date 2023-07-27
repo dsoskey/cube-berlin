@@ -38,7 +38,6 @@ Deceiver Exarch	nph	33	Owned	New	Non-foil	3	U	~~	~~	Creature — Cleric
 Pestermite	mma	59	Owned	New	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
 Glen Elendra Archmage	uma	58	Owned	New	Foil	4	U	~~	~~	Creature — Faerie Wizard
 Glen Elendra Archmage	uma	58	Owned	New	Foil	4	U	~~	~~	Creature — Faerie Wizard
-Sower of Temptation	bbd	131	Owned	New	Non-foil	4	U	~~	~~	Creature — Faerie Wizard
 Venser, Shaper Savant	tsr	96	Owned	New	Foil	4	U	~~	~~	Legendary Creature — Human Wizard
 Mulldrifter	tsr	311	Owned	New	Non-foil	5	U	~~	~~	Creature — Elemental
 Consecrated Sphinx	2x2	345	Owned	New	Non-foil	6	U	~~	~~	Creature — Sphinx
@@ -326,7 +325,6 @@ Murktide Regent	mh2	52	Owned	~~	Non-foil	7	U	~~	~~	Creature — Dragon
 Murktide Regent	mh2	52	Owned	~~	Non-foil	7	U	~~	~~	Creature — Dragon
 Sedgemoor Witch	stx	306	Owned	~~	Foil	3	B	~~	~~	Creature — Human Warlock
 Dauthi Voidwalker	mh2	81	Owned	~~	Non-foil	2	B	~~	~~	Creature — Dauthi Rogue
-Braids, Cabal Minion	mh2	273	Owned	~~	Non-foil	4	B	~~	~~	Legendary Creature — Human Minion
 Bonecrusher Giant	eld	115	Owned	~~	Non-foil	3	R	~~	~~	Creature — Giant
 Goblin Bombardment	tmp	179	Owned	~~	Non-foil	2	R	~~	~~	Enchantment
 Fable of the Mirror-Breaker	neo	141	Owned	~~	Non-foil	3	R	~~	~~	Enchantment — Saga
@@ -361,7 +359,6 @@ Raugrin Triome	iko	311	Owned	~~	Non-foil	0	W,U,R	~~	~~	Land — Island Mountain 
 Zagoth Triome	iko	313	Owned	~~	Non-foil	0	U,B,G	~~	~~	Land — Swamp Forest Island
 Indatha Triome	iko	309	Owned	~~	Non-foil	0	W,B,G	~~	~~	Land — Plains Swamp Forest
 Greater Gargadon	2x2	453	Owned	~~	Foil	10	R	~~	~~	Creature — Beast
-Final Fortune	6ed	175	Owned	~~	Non-foil	2	R	~~	~~	Instant
 Final Fortune	6ed	175	Owned	~~	Non-foil	2	R	~~	~~	Instant
 Cemetery Gatekeeper	vow	148	Owned	~~	Non-foil	2	R	~~	~~	Creature — Vampire
 Dragonkin Berserker	khm	131	Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Berserker
@@ -432,7 +429,6 @@ Lutri, the Spellchaser	mul	182	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature 
 Trygon Predator	tsr	389	Owned	~~	Foil	3	U,G	~~	~~	Creature — Beast
 Knight of the Reliquary	ima	203	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Koma, Cosmos Serpent	khm	326	Owned	~~	Non-foil	7	U,G	~~	~~	Legendary Creature — Serpent
-Usher of the Fallen	khm	35	Owned	~~	Non-foil	1	W	~~	~~	Creature — Spirit Warrior
 Usher of the Fallen	khm	35	Owned	~~	Non-foil	1	W	~~	~~	Creature — Spirit Warrior
 Intrepid Adversary	mid	25	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Scout
 Selfless Spirit	plst	EMN-40	Owned	~~	Non-foil	2	W	~~	~~	Creature — Spirit Cleric
@@ -554,3 +550,8 @@ Reveillark	mor	22	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Retrofitter Foundry	p23	4	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jetmir's Garden	snc	291	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dark Confidant	rav	81	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dark Confidant	rav	81	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Displacer Kitten	clb	63	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Student of Warfare	roe	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mind's Desire	scg	41	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Trinket Mage	5dn	39	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
