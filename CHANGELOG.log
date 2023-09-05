@@ -1245,3 +1245,6 @@ Timestamp	Board	ChangeType	Name
 2023-09-05T08:45:20.368+00:00	mainboard	edit	Toxic Deluge
 2023-09-05T08:45:20.368+00:00	mainboard	remove	Chandra, Dressed to Kill
 2023-09-05T08:45:20.368+00:00	mainboard	add	Chandra, Hope's Beacon
+2023-09-05T08:45:51.567+00:00	mainboard	remove	Spellseeker
+2023-09-05T08:45:51.567+00:00	mainboard	add	Etali, Primal Conqueror
+2023-09-05T08:45:51.567+00:00	mainboard	edit	Chandra, Hope's Beacon
