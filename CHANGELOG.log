@@ -1249,3 +1249,6 @@ Timestamp	Board	ChangeType	Name
 2023-09-05T08:45:51.567+00:00	mainboard	add	Etali, Primal Conqueror
 2023-09-05T08:45:51.567+00:00	mainboard	edit	Chandra, Hope's Beacon
 2023-09-05T08:45:59.222+00:00	mainboard	edit	Etali, Primal Conqueror
+2023-09-05T08:46:51.145+00:00	mainboard	remove	Sword of Hearth and Home
+2023-09-05T08:46:51.145+00:00	mainboard	remove	Finale of Devastation
+2023-09-05T08:46:51.145+00:00	mainboard	add	Atraxa, Grand Unifier
