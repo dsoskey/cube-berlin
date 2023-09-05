@@ -128,7 +128,7 @@ Sulfuric Vortex	ema	150	Owned	New	Non-foil	3	R	~~	~~	Enchantment
 Sneak Attack	dmr	331	Owned	New	Foil	4	R	~~	~~	Enchantment
 Splinter Twin	mm2	129	Owned	New	Non-foil	4	R	~~	~~	Enchantment — Aura
 Arbor Elf	a25	160	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
-Birds of Paradise	gk2	82	Owned	New	Non-foil	1	G	~~	~~	Creature — Bird
+Birds of Paradise	dmr	336	Owned	New	Foil	1	G	~~	~~	Creature — Bird
 Elvish Mystic	ddu	7	Proxied	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Fyndhorn Elves	p30a	3	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Joraga Treespeaker	roe	190	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
@@ -284,7 +284,7 @@ Urza, Lord High Artificer	h1r	11	Owned	~~	Etched	4	U	~~	~~	Legendary Creature �
 Brazen Borrower	eld	281	Owned	~~	Foil	3	U	~~	~~	Creature — Faerie Rogue 
 Bolas's Citadel	plg21	3	Owned	~~	Foil	6	B	~~	~~	Legendary Artifact
 Murderous Rider	eld	97	Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Knight 
-Teferi, Time Raveler	war	221	Owned	~~	Non-foil	3	U,W	~~	~~	Legendary Planeswalker — Teferi
+Teferi, Time Raveler	sld	526	Owned	~~	Foil	3	U,W	~~	~~	Legendary Planeswalker — Teferi
 Wrenn and Six	2x2	574	Owned	~~	Foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
 Oko, Thief of Crowns	eld	271	Owned	~~	Non-foil	3	U,G	~~	~~	Legendary Planeswalker — Oko
 Prismatic Vista	h1r	40	Owned	~~	Foil	0	~~	~~	~~	Land
@@ -418,7 +418,6 @@ Growth Spiral	sta	61	Owned	~~	Non-foil	2	G,U	~~	~~	Instant
 Soulherder	h1r	30	Owned	~~	Etched	3	U,W	~~	~~	Creature — Spirit
 Gaddock Teeg	puma	U21	Owned	~~	Foil	2	W,G	~~	~~	Legendary Creature — Kithkin Advisor
 Territorial Kavu	mh2	216	Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Kavu
-Geyadrone Dihada	mh2	199	Owned	~~	Non-foil	4	B,R,U	~~	~~	Legendary Planeswalker — Dihada
 Klothys, God of Destiny	thb	268	Owned	~~	Non-foil	3	G,R	~~	~~	Legendary Enchantment Creature — God
 Lutri, the Spellchaser	mul	182	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Elemental Otter
 Trygon Predator	tsr	389	Owned	~~	Foil	3	U,G	~~	~~	Creature — Beast
@@ -480,7 +479,7 @@ Skullclamp	brc	159	Owned	~~	Non-foil	1	~~	~~	~~	Artifact — Equipment
 Sword of Fire and Ice	2xm	365	Owned	~~	Foil	3	~~	~~	~~	Artifact — Equipment
 Seedtime	jud	130	Owned	~~	Non-foil	2	G	~~	~~	Instant
 Ruric Thar, the Unbowed	2x2	536	Owned	~~	Etched	6	R,G	~~	~~	Legendary Creature — Ogre Warrior
-The Scarab God	hou	145	Owned	~~	Foil	5	U,B	~~	~~	Legendary Creature — God
+The Scarab God	2xm	216	Owned	~~	Foil	5	U,B	~~	~~	Legendary Creature — God
 Black Lotus	ced	233	Owned	~~	Non-foil	0	~~	~~	~~	Artifact
 Mox Emerald	ced	262	Owned	~~	Non-foil	0	G	~~	~~	Artifact
 Mox Pearl	leb	264	Owned	~~	Non-foil	0	W	~~	~~	Artifact
