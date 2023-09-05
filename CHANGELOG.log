@@ -1242,3 +1242,6 @@ Timestamp	Board	ChangeType	Name
 2023-09-01T11:43:49.421+00:00	mainboard	edit	Atraxa, Grand Unifier
 2023-09-01T11:43:49.421+00:00	mainboard	remove	Final Fortune
 2023-09-05T08:31:18.377+00:00	mainboard	edit	Elvish Mystic
+2023-09-05T08:45:20.368+00:00	mainboard	edit	Toxic Deluge
+2023-09-05T08:45:20.368+00:00	mainboard	remove	Chandra, Dressed to Kill
+2023-09-05T08:45:20.368+00:00	mainboard	add	Chandra, Hope's Beacon
