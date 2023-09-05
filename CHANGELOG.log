@@ -1255,3 +1255,6 @@ Timestamp	Board	ChangeType	Name
 2023-09-05T08:47:11.619+00:00	mainboard	remove	Atraxa, Grand Unifier
 2023-09-05T08:47:11.619+00:00	mainboard	remove	Atraxa, Grand Unifier
 2023-09-05T08:47:35.354+00:00	mainboard	edit	Brazen Borrower
+2023-09-05T08:48:20.174+00:00	mainboard	remove	Culling Ritual
+2023-09-05T08:48:20.174+00:00	mainboard	add	Rolling Earthquake
+2023-09-05T08:48:20.174+00:00	mainboard	add	Voice of Resurgence
