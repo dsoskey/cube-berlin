@@ -161,7 +161,7 @@ Oath of Druids	c16	159	Proxied	New	Non-foil	2	G	~~	~~	Enchantment
 Survival of the Fittest	tpr	199	Proxied	New	Non-foil	2	G	~~	~~	Enchantment
 Heartbeat of Spring	chk	212	Owned	New	Non-foil	3	G	~~	~~	Enchantment
 Gaea's Cradle	usg	321	Proxied	New	Non-foil	0	G	~~	~~	Legendary Land
-Teferi, Hero of Dominaria	dom	207	Owned	New	Non-foil	5	W,U	~~	~~	Legendary Planeswalker — Teferi
+Teferi, Hero of Dominaria	med	GR6	Owned	New	Foil	5	W,U	~~	~~	Legendary Planeswalker — Teferi
 Fractured Identity	sld	272	Owned	New	Non-foil	5	U,W	~~	~~	Sorcery
 Celestial Colonnade	puma	U33	Owned	New	Foil	0	W,U	~~	~~	Land
 Flooded Strand	zne	1	Owned	New	Non-foil	0	~~	~~	~~	Land
@@ -193,30 +193,25 @@ Temple Garden	unf	281	Owned	New	Non-foil	0	W,G	~~	~~	Land — Forest Plains
 Windswept Heath	zne	5	Owned	New	Non-foil	0	~~	~~	~~	Land
 Tidehollow Sculler	tsr	388	Owned	New	Foil	2	W,B	~~	~~	Artifact Creature — Zombie
 Vindicate	mh2	322	Owned	New	Foil	3	W,B	~~	~~	Sorcery
-Concealed Courtyard	kld	245	Proxied	New	Non-foil	0	B,W	~~	~~	Land
 Godless Shrine	unf	282	Owned	New	Non-foil	0	W,B	~~	~~	Land — Plains Swamp
 Marsh Flats	mh2	437	Owned	New	Foil	0	~~	~~	~~	Land
 Scrubland	vma	313	Proxied	New	Non-foil	0	W,B	~~	~~	Land — Plains Swamp
 Bayou	vma	293	Proxied	New	Non-foil	0	B,G	~~	~~	Land — Swamp Forest
-Blooming Marsh	kld	243	Proxied	New	Non-foil	0	B,G	~~	~~	Land
 Overgrown Tomb	unf	284	Owned	New	Non-foil	0	B,G	~~	~~	Land — Swamp Forest
 Verdant Catacombs	mh2	440	Owned	New	Foil	0	~~	~~	~~	Land
 Hydroid Krasis	2x2	228	Owned	New	Non-foil	2	U,G	~~	~~	Creature — Jellyfish Hydra Beast
-Botanical Sanctum	kld	244	Proxied	New	Non-foil	0	G,U	~~	~~	Land
 Breeding Pool	unf	286	Owned	New	Non-foil	0	U,G	~~	~~	Land — Forest Island
 Misty Rainforest	mh2	438	Owned	New	Foil	0	~~	~~	~~	Land
 Tropical Island	vma	321	Proxied	New	Non-foil	0	G,U	~~	~~	Land — Forest Island
 Helm of Awakening	dmr	379	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Dack Fayden	med	RA6	Owned	New	Foil	3	U,R	~~	~~	Legendary Planeswalker — Dack
 Scalding Tarn	mh2	439	Owned	New	Foil	0	~~	~~	~~	Land
-Spirebluff Canal	kld	249	Proxied	New	Non-foil	0	R,U	~~	~~	Land
 Steam Vents	unf	283	Owned	New	Non-foil	0	U,R	~~	~~	Land — Island Mountain
 Volcanic Island	vma	324	Proxied	New	Non-foil	0	U,R	~~	~~	Land — Island Mountain
 Figure of Destiny	2x2	496	Owned	New	Etched	1	W,R	~~	~~	Creature — Kithkin
 Nahiri, the Harbinger	med	WS7	Owned	New	Foil	4	W,R	~~	~~	Legendary Planeswalker — Nahiri
 Lightning Helix	sta	62	Owned	New	Foil	2	W,R	~~	~~	Instant
 Arid Mesa	mh2	436	Owned	New	Foil	0	~~	~~	~~	Land
-Inspiring Vantage	kld	246	Proxied	New	Non-foil	0	R,W	~~	~~	Land
 Plateau	vma	308	Proxied	New	Non-foil	0	W,R	~~	~~	Land — Mountain Plains
 Sacred Foundry	unf	285	Owned	New	Non-foil	0	W,R	~~	~~	Land — Mountain Plains
 Sphinx of the Steel Wind	pd3	9	Owned	New	Foil	8	W,U,B	~~	~~	Artifact Creature — Sphinx
@@ -548,3 +543,8 @@ Trinket Mage	5dn	39	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra, Hope's Beacon	mom	321	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Rolling Earthquake	2xm	142	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voice of Resurgence	2xm	227	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Restless Bivouac	woe	303	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Restless Fortress	woe	305	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Restless Spire	woe	306	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Restless Vinestalk	woe	307	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Restless Cottage	woe	304	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
