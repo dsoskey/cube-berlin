@@ -64,13 +64,13 @@ Ponder	tsr	315	Owned	New	Non-foil	1	U	~~	~~	Sorcery
 Preordain	brc	92	Owned	New	Non-foil	1	U	~~	~~	Sorcery
 Chart a Course	xln	48	Owned	New	Non-foil	2	U	~~	~~	Sorcery
 Tinker	ulg	45	Owned	New	Non-foil	3	U	~~	~~	Sorcery
-Time Warp	e02	12	Proxied	New	Non-foil	5	U	~~	~~	Sorcery
-Time Spiral	usg	103	Proxied	New	Non-foil	6	U	~~	~~	Sorcery
+Time Warp	tmp	97	Owned	New	Non-foil	5	U	~~	~~	Sorcery
+Time Spiral	usg	103	Owned	New	Non-foil	6	U	~~	~~	Sorcery
 Upheaval	ody	113	Owned	New	Non-foil	6	U	~~	~~	Sorcery
 Opposition	uds	40	Owned	New	Non-foil	4	U	~~	~~	Enchantment
-Treachery	uds	50	Proxied	New	Non-foil	5	U	~~	~~	Enchantment — Aura
+Treachery	uds	50	Owned	New	Non-foil	5	U	~~	~~	Enchantment — Aura
 Shelldock Isle	lrw	272	Owned	New	Non-foil	0	U	~~	~~	Land
-Tolarian Academy	vma	319	Proxied	New	Non-foil	0	U	~~	~~	Legendary Land
+Tolarian Academy	usg	330	Owned	New	Non-foil	0	U	~~	~~	Legendary Land
 Oona's Prowler	lrw	133	Owned	New	Non-foil	2	B	~~	~~	Creature — Faerie Rogue
 Pack Rat	sld	35	Owned	New	Foil	2	B	~~	~~	Creature — Rat
 Bone Shredder	mh2	272	Owned	New	Foil	3	B	~~	~~	Creature — Minion
@@ -135,7 +135,7 @@ Joraga Treespeaker	roe	190	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Llanowar Elves	gnt	46	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Noble Hierarch	uma	174	Owned	New	Foil	1	W,U,G	~~	~~	Creature — Human Druid
 Devoted Druid	uma	162	Owned	New	Non-foil	2	G	~~	~~	Creature — Elf Druid
-Rofellos, Llanowar Emissary	vma	229	Proxied	New	Non-foil	2	G	~~	~~	Legendary Creature — Elf Druid
+Rofellos, Llanowar Emissary	vma	229	Owned	New	Non-foil	2	G	~~	~~	Legendary Creature — Elf Druid
 Scavenging Ooze	plg21	5	Owned	New	Non-foil	2	G	~~	~~	Creature — Ooze
 Courser of Kruphix	tsr	359	Owned	New	Foil	3	G	~~	~~	Enchantment Creature — Centaur
 Eternal Witness	uma	163	Owned	New	Non-foil	3	G	~~	~~	Creature — Human Shaman
@@ -147,7 +147,7 @@ Acidic Slime	p30a	17	Owned	New	Foil	5	G	~~	~~	Creature — Ooze
 Thragtusk	tsr	368	Owned	New	Non-foil	5	G	~~	~~	Creature — Beast
 Primeval Titan	ima	183	Owned	New	Non-foil	6	G	~~	~~	Creature — Giant
 Avenger of Zendikar	c18	129	Owned	New	Non-foil	7	G	~~	~~	Creature — Elemental
-Craterhoof Behemoth	mm3	122	Proxied	New	Non-foil	8	G	~~	~~	Creature — Beast
+Craterhoof Behemoth	cmm	556	Owned	New	Etched	8	G	~~	~~	Creature — Beast
 Terastodon	pres	A6	Owned	New	Foil	8	G	~~	~~	Creature — Elephant
 Woodfall Primus	uma	195	Owned	New	Non-foil	8	G	~~	~~	Creature — Treefolk Shaman
 Garruk Wildspeaker	sld	1142	Owned	New	Non-foil	4	G	~~	~~	Legendary Planeswalker — Garruk
@@ -220,7 +220,7 @@ Inspiring Vantage	kld	246	Proxied	New	Non-foil	0	R,W	~~	~~	Land
 Plateau	vma	308	Proxied	New	Non-foil	0	W,R	~~	~~	Land — Mountain Plains
 Sacred Foundry	unf	285	Owned	New	Non-foil	0	W,R	~~	~~	Land — Mountain Plains
 Sphinx of the Steel Wind	pd3	9	Owned	New	Foil	8	W,U,B	~~	~~	Artifact Creature — Sphinx
-Ulamog, the Ceaseless Hunger	bfz	15	Proxied	New	Non-foil	10	~~	~~	~~	Legendary Creature — Eldrazi
+Ulamog, the Ceaseless Hunger	cmm	1059	Owned	New	Foil	10	~~	~~	~~	Legendary Creature — Eldrazi
 Ulamog, the Infinite Gyre	2x2	577	Owned	New	Non-foil	11	~~	~~	~~	Legendary Creature — Eldrazi
 Emrakul, the Promised End	emn	6	Proxied	New	Non-foil	13	~~	~~	~~	Legendary Creature — Eldrazi
 Emrakul, the Aeons Torn	2x2	335	Owned	New	Non-foil	15	~~	~~	~~	Legendary Creature — Eldrazi
@@ -239,7 +239,7 @@ Walking Ballista	aer	181	Owned	New	Non-foil	0	~~	~~	~~	Artifact Creature — Con
 Blightsteel Colossus	2xm	357	Owned	New	Foil	12	~~	~~	~~	Artifact Creature — Golem
 Chrome Mox	slc	2003	Owned	New	Foil	0	~~	~~	~~	Artifact
 Lion's Eye Diamond	mir	307	Proxied	New	Non-foil	0	~~	~~	~~	Artifact
-Mana Crypt	vma	272	Proxied	New	Non-foil	0	~~	~~	~~	Artifact
+Mana Crypt	2xm	361	Owned	New	Foil	0	~~	~~	~~	Artifact
 Mox Diamond	tpr	228	Proxied	New	Non-foil	0	~~	~~	~~	Artifact
 Mana Vault	puma	U29	Owned	New	Foil	1	~~	~~	~~	Artifact
 Relic of Progenitus	brc	157	Owned	New	Non-foil	1	~~	~~	~~	Artifact
@@ -267,9 +267,9 @@ Worn Powerstone	usg	318	Owned	New	Non-foil	3	~~	~~	~~	Artifact
 Smokestack	v14	11	Owned	New	Foil	4	~~	~~	~~	Artifact
 Thran Dynamo	uds	139	Owned	New	Non-foil	4	~~	~~	~~	Artifact
 Batterskull	nph	130	Owned	New	Non-foil	5	~~	~~	~~	Artifact — Equipment
-Memory Jar	vma	276	Proxied	New	Non-foil	5	~~	~~	~~	Artifact
+Memory Jar	ulg	129	Owned	New	Non-foil	5	~~	~~	~~	Artifact
 Mindslaver	som	176	Owned	New	Non-foil	6	~~	~~	~~	Legendary Artifact
-Academy Ruins	mma	219	Proxied	New	Non-foil	0	U	~~	~~	Legendary Land
+Academy Ruins	2xm	369	Owned	New	Foil	0	U	~~	~~	Legendary Land
 Ancient Tomb	ltc	387	Owned	New	Foil	0	~~	~~	~~	Land
 Mishra's Factory	a25	242	Owned	New	Non-foil	0	~~	~~	~~	Land
 Mishra's Workshop	vma	305	Proxied	New	Non-foil	0	~~	~~	~~	Land
@@ -290,7 +290,7 @@ Oko, Thief of Crowns	eld	271	Owned	~~	Non-foil	3	U,G	~~	~~	Legendary Planeswalke
 Prismatic Vista	h1r	40	Owned	~~	Foil	0	~~	~~	~~	Land
 Kroxa, Titan of Death's Hunger	thb	340	Owned	~~	Non-foil	2	B,R	~~	~~	Legendary Creature — Elder Giant
 Uro, Titan of Nature's Wrath	thb	229	Owned	~~	Non-foil	3	G,U	~~	~~	Legendary Creature — Elder Giant
-Elspeth, Knight-Errant	ddf	1	Proxied	~~	Non-foil	4	W	~~	~~	Legendary Planeswalker — Elspeth
+Elspeth, Knight-Errant	med	GR1	Owned	~~	Foil	4	W	~~	~~	Legendary Planeswalker — Elspeth
 Cultivate	m11	168	Owned	~~	Non-foil	3	G	~~	~~	Sorcery
 Elder Gargaroth	m21	179	Owned	~~	Non-foil	5	G	~~	~~	Creature — Beast
 Elder Gargaroth	m21	179	Owned	~~	Non-foil	5	G	~~	~~	Creature — Beast
