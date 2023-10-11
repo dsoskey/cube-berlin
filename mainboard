@@ -148,7 +148,7 @@ Thragtusk	tsr	368	Owned	New	Non-foil	5	G	~~	~~	Creature — Beast
 Primeval Titan	ima	183	Owned	New	Non-foil	6	G	~~	~~	Creature — Giant
 Avenger of Zendikar	c18	129	Owned	New	Non-foil	7	G	~~	~~	Creature — Elemental
 Craterhoof Behemoth	cmm	556	Owned	New	Etched	8	G	~~	~~	Creature — Beast
-Terastodon	pres	A6	Owned	New	Foil	8	G	~~	~~	Creature — Elephant
+Terastodon	p30a	18	Owned	New	Foil	8	G	~~	~~	Creature — Elephant
 Woodfall Primus	uma	195	Owned	New	Non-foil	8	G	~~	~~	Creature — Treefolk Shaman
 Garruk Wildspeaker	sld	1142	Owned	New	Non-foil	4	G	~~	~~	Legendary Planeswalker — Garruk
 Channel	sta	50	Owned	New	Etched	2	G	~~	~~	Sorcery
@@ -225,7 +225,6 @@ Ugin, the Spirit Dragon	med	WS1	Owned	New	Foil	8	~~	~~	~~	Legendary Planeswalker
 Bomat Courier	kld	199	Owned	~~	Non-foil	1	R	~~	~~	Artifact Creature — Construct
 Hangarback Walker	plg20	2	Owned	New	Foil	0	~~	~~	~~	Artifact Creature — Construct
 Phyrexian Revoker	brr	40	Owned	New	Foil	2	~~	~~	~~	Artifact Creature — Horror
-Metalworker	uds	135	Proxied	New	Non-foil	3	~~	~~	~~	Artifact Creature — Construct
 Coercive Portal	cns	56	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wurmcoil Engine	brr	63	Owned	New	Foil	6	~~	~~	~~	Artifact Creature — Wurm
 Myr Battlesphere	brc	151	Owned	New	Non-foil	7	~~	~~	~~	Artifact Creature — Myr Construct
@@ -309,7 +308,6 @@ Urza's Saga	mh2	259	Proxied	~~	Non-foil	0	~~	~~	~~	Enchantment Land — Urza’s
 Karmic Guide	sld	281	Owned	~~	Non-foil	5	W	~~	~~	Creature — Angel Spirit
 Laelia, the Blade Reforged	c21	53	Owned	~~	Non-foil	3	R	~~	~~	Legendary Creature — Spirit Warrior
 Augur of Autumn	mid	168	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Druid
-Birthing Pod	nph	104	Owned	~~	Non-foil	4	G	~~	~~	Artifact
 Niv-Mizzet Reborn	war	208	Owned	~~	Non-foil	5	B,G,R,U,W	~~	~~	Legendary Creature — Dragon Avatar
 Esper Sentinel	mh2	12	Owned	~~	Non-foil	1	W	~~	~~	Artifact Creature — Human Soldier
 Lion Sash	neo	26	Owned	~~	Non-foil	2	W	~~	~~	Artifact Creature — Equipment Cat
@@ -318,7 +316,7 @@ The Wandering Emperor	neo	316	Owned	~~	Non-foil	4	W	~~	~~	Legendary Planeswalker
 Murktide Regent	mh2	52	Owned	~~	Non-foil	7	U	~~	~~	Creature — Dragon
 Murktide Regent	mh2	52	Owned	~~	Non-foil	7	U	~~	~~	Creature — Dragon
 Sedgemoor Witch	stx	306	Owned	~~	Foil	3	B	~~	~~	Creature — Human Warlock
-Dauthi Voidwalker	mh2	81	Owned	~~	Non-foil	2	B	~~	~~	Creature — Dauthi Rogue
+Dauthi Voidwalker	mh2	450	Owned	~~	Foil	2	B	~~	~~	Creature — Dauthi Rogue
 Bonecrusher Giant	eld	115	Owned	~~	Non-foil	3	R	~~	~~	Creature — Giant
 Goblin Bombardment	tmp	179	Owned	~~	Non-foil	2	R	~~	~~	Enchantment
 Fable of the Mirror-Breaker	neo	141	Owned	~~	Non-foil	3	R	~~	~~	Enchantment — Saga
@@ -338,7 +336,6 @@ Nurturing Peatland	mh1	243	Proxied	~~	Non-foil	0	B,G	~~	~~	Land
 Waterlogged Grove	mh1	249	Owned	~~	Non-foil	0	G,U	~~	~~	Land
 Fiery Islet	mh1	238	Proxied	~~	Non-foil	0	R,U	~~	~~	Land
 Sunbaked Canyon	mh1	247	Owned	~~	Non-foil	0	R,W	~~	~~	Land
-Oblivion Ring	td0	A12	Owned	~~	Non-foil	3	W	~~	~~	Enchantment
 Bone Shards	mh2	395	Owned	~~	Foil	1	B	~~	~~	Sorcery
 Corpse Dance	tmp	116	Proxied	~~	Non-foil	3	B	~~	~~	Instant
 Exploration	cns	164	Proxied	~~	Non-foil	1	G	~~	~~	Enchantment
@@ -359,9 +356,8 @@ Goblin Engineer	tsr	345	Owned	~~	Foil	2	R	~~	~~	Creature — Goblin Artificer
 Rampaging Ferocidon	xln	154	Owned	~~	Non-foil	3	R	~~	~~	Creature — Dinosaur
 Mizzium Tank	war	138	Owned	~~	Foil	3	R	~~	~~	Artifact — Vehicle
 Outpost Siege	frf	110	Owned	consider	Non-foil	4	R	~~	~~	Enchantment
-Fiery Confluence	c15	26	Owned	~~	Non-foil	4	R	~~	~~	Sorcery
+Fiery Confluence	cmm	536	Owned	~~	Etched	4	R	~~	~~	Sorcery
 Embercleave	plst	ELD-120	Owned	~~	Non-foil	6	R	~~	~~	Legendary Artifact — Equipment
-Siege-Gang Commander	gnt	42	Owned	~~	Non-foil	5	R	~~	~~	Creature — Goblin
 Wildfire	usg	228	Owned	~~	Non-foil	6	R	~~	~~	Sorcery
 Burning of Xinye	v14	2	Owned	~~	Foil	6	R	~~	~~	Sorcery
 Kytheon, Hero of Akros	ori	23	Owned	~~	Non-foil	1	W	~~	~~	Legendary Creature — Human Soldier
@@ -381,13 +377,11 @@ Fatal Push	2xm	343	Owned	~~	Foil	1	B	~~	~~	Instant
 Orcish Bowmasters	ltr	433	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Damn	mh2	396	Owned	~~	Non-foil	2	B,W	~~	~~	Sorcery
 Heartless Act	iko	91	Owned	~~	Non-foil	2	B	~~	~~	Instant
-Doom Blade	sta	28	Owned	~~	Foil	2	B	~~	~~	Instant
 Sign in Blood	sta	32	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
 Go for the Throat	2x2	76	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Rotting Regisaur	m20	111	Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Dinosaur
 Collective Brutality	emn	85	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rankle, Master of Pranks	eld	356	Owned	~~	Non-foil	4	B	~~	~~	Legendary Creature — Faerie Rogue
-Unburial Rites	isd	122	Owned	~~	Non-foil	5	B,W	~~	~~	Sorcery
 Gray Merchant of Asphodel	tsr	323	Owned	~~	Non-foil	5	B	~~	~~	Creature — Zombie
 Bloodsoaked Champion	ncc	243	Owned	~~	Non-foil	1	B	~~	~~	Creature — Human Warrior
 Delver of Secrets	isd	51	Owned	~~	Non-foil	1	U	~~	~~	Creature — Human Wizard
@@ -463,16 +457,14 @@ Questing Beast	eld	372	Owned	~~	Non-foil	4	G	~~	~~	Legendary Creature — Beast
 Toski, Bearer of Secrets	khm	319	Owned	~~	Non-foil	4	G	~~	~~	Legendary Creature — Squirrel
 Sylvan Caryatid	ths	180	Owned	~~	Non-foil	2	G	~~	~~	Creature — Plant
 Sakura-Tribe Elder	c15	200	Owned	~~	Non-foil	2	G	~~	~~	Creature — Snake Shaman
-Spellseeker	bbd	41	Owned	~~	Non-foil	3	U	~~	~~	Creature — Human Wizard
+Spellseeker	cmm	495	Owned	~~	Etched	3	U	~~	~~	Creature — Human Wizard
 Etali, Primal Conqueror	mom	298	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Huntmaster of the Fells	v17	11	Owned	~~	Non-foil	4	G,R	~~	~~	Creature — Human Werewolf
 Banefire	m19	130	Owned	~~	Non-foil	1	R	~~	~~	Sorcery
 Goblin Rabblemaster	pm15	145	Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin Warrior
 Seasoned Pyromancer	2x2	363	Owned	~~	Non-foil	3	R	~~	~~	Creature — Human Shaman
 Cryptbreaker	emn	86	Proxied	~~	Non-foil	1	B	~~	~~	Creature — Zombie
 Skullclamp	brc	159	Owned	~~	Non-foil	1	~~	~~	~~	Artifact — Equipment
 Sword of Fire and Ice	2xm	365	Owned	~~	Foil	3	~~	~~	~~	Artifact — Equipment
-Seedtime	jud	130	Owned	~~	Non-foil	2	G	~~	~~	Instant
 Ruric Thar, the Unbowed	2x2	536	Owned	~~	Etched	6	R,G	~~	~~	Legendary Creature — Ogre Warrior
 The Scarab God	2xm	216	Owned	~~	Foil	5	U,B	~~	~~	Legendary Creature — God
 Black Lotus	ced	233	Owned	~~	Non-foil	0	~~	~~	~~	Artifact
@@ -496,7 +488,7 @@ Leyline Binding	dmu	387	Owned	~~	Foil	6	W	~~	~~	Enchantment
 Temporary Lockdown	dmu	36	Owned	~~	Foil	3	W	~~	~~	Enchantment
 Temporary Lockdown	dmu	36	Owned	~~	Foil	3	W	~~	~~	Enchantment
 Temporary Lockdown	dmu	36	Owned	~~	Foil	3	W	~~	~~	Enchantment
-Mind Twist	leb	116	Not Owned	~~	Non-foil	1	B	~~	~~	Sorcery
+Mind Twist	leb	116	Proxied	~~	Non-foil	1	B	~~	~~	Sorcery
 Dismember	tsr	322	Owned	~~	Non-foil	3	B	~~	~~	Instant
 Ashen Rider	2x2	472	Owned	~~	Etched	8	B,W	~~	~~	Creature — Archon
 Night's Whisper	dmc	115	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
@@ -535,7 +527,7 @@ Forth Eorlingas!	ltc	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Reveillark	mor	22	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Retrofitter Foundry	p23	4	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jetmir's Garden	snc	291	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Dark Confidant	rav	81	Proxied	~~	~~	"""~~"""	~~	~~	~~	~~
+Dark Confidant	g11	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Displacer Kitten	clb	63	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Student of Warfare	roe	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mind's Desire	sta	17	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -548,3 +540,4 @@ Restless Fortress	woe	305	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Restless Spire	woe	306	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Restless Vinestalk	woe	307	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Restless Cottage	woe	304	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Inferno Titan	cmm	541	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
