@@ -1308,3 +1308,5 @@ Timestamp	Board	ChangeType	Name
 2023-10-11T15:40:11.015+00:00	mainboard	remove	Birthing Pod
 2023-10-11T15:40:11.015+00:00	mainboard	remove	Metalworker
 2023-10-11T15:40:11.015+00:00	mainboard	add	Inferno Titan
+2023-10-14T09:14:12.169+00:00	mainboard	remove	Thirst for Knowledge
+2023-10-14T09:14:12.169+00:00	mainboard	add	Thirst for Discovery
