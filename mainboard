@@ -116,7 +116,7 @@ Zealous Conscripts	tsr	354	Owned	New	Foil	5	R	~~	~~	Creature — Human Warrior
 Daretti, Scrap Savant	cm2	4	Owned	New	Non-foil	4	R	~~	~~	Legendary Planeswalker — Daretti
 Koth of the Hammer	ddi	44	Owned	New	Foil	4	R	~~	~~	Legendary Planeswalker — Koth
 Burst Lightning	mm2	109	Owned	New	Non-foil	1	R	~~	~~	Instant
-Lightning Bolt	a25	141	Owned	New	Non-foil	1	R	~~	~~	Instant
+Lightning Bolt	pf19	1	Owned	New	Foil	1	R	~~	~~	Instant
 Abrade	hou	83	Owned	New	Non-foil	2	R	~~	~~	Instant
 Seething Song	ddg	70	Owned	New	Non-foil	3	R	~~	~~	Instant
 Chain Lightning	bbd	171	Owned	New	Non-foil	1	R	~~	~~	Sorcery
@@ -152,8 +152,8 @@ Woodfall Primus	uma	195	Owned	New	Non-foil	8	G	~~	~~	Creature — Treefolk Shama
 Garruk Wildspeaker	sld	1142	Owned	New	Non-foil	4	G	~~	~~	Legendary Planeswalker — Garruk
 Channel	sta	50	Owned	New	Etched	2	G	~~	~~	Sorcery
 Regrowth	mh1	175	Owned	New	Non-foil	2	G	~~	~~	Sorcery
-Natural Order	ema	177	Owned	New	Non-foil	4	G	~~	~~	Sorcery
-Plow Under	uds	117	Owned	New	Non-foil	5	G	~~	~~	Sorcery
+Natural Order	sta	54	Owned	New	Non-foil	4	G	~~	~~	Sorcery
+Plow Under	uds	117	Owned	New	Foil	5	G	~~	~~	Sorcery
 Green Sun's Zenith	2x2	150	Owned	New	Non-foil	1	G	~~	~~	Sorcery
 Fastbond	2ed	193	Owned	New	Non-foil	1	G	~~	~~	Enchantment
 Oath of Druids	c16	159	Proxied	New	Non-foil	2	G	~~	~~	Enchantment
@@ -450,7 +450,7 @@ Fireblast	pd2	26	Owned	~~	Non-foil	6	R	~~	~~	Instant
 Leonin Relic-Warder	c17	65	Owned	~~	Non-foil	2	W	~~	~~	Creature — Cat Cleric
 Leonin Relic-Warder	c17	65	Owned	~~	Non-foil	2	W	~~	~~	Creature — Cat Cleric
 Leonin Relic-Warder	c17	65	Owned	~~	Non-foil	2	W	~~	~~	Creature — Cat Cleric
-Sylvan Library	cm1	17	Owned	~~	Non-foil	2	G	~~	~~	Enchantment
+Sylvan Library	dmr	350	Owned	~~	Foil	2	G	~~	~~	Enchantment
 Questing Beast	eld	372	Owned	~~	Non-foil	4	G	~~	~~	Legendary Creature — Beast
 Toski, Bearer of Secrets	khm	319	Owned	~~	Non-foil	4	G	~~	~~	Legendary Creature — Squirrel
 Sylvan Caryatid	ths	180	Owned	~~	Non-foil	2	G	~~	~~	Creature — Plant
