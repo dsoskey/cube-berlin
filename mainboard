@@ -18,8 +18,8 @@ Gideon, Ally of Zendikar	prcq	1	Owned	New	Non-foil	4	W	~~	~~	Legendary Planeswal
 Gideon Jura	roe	21	Owned	New	Non-foil	5	W	~~	~~	Legendary Planeswalker — Gideon
 Gideon Jura	roe	21	Owned	New	Non-foil	5	W	~~	~~	Legendary Planeswalker — Gideon
 Gideon Jura	roe	21	Owned	New	Non-foil	5	W	~~	~~	Legendary Planeswalker — Gideon
-Path to Exile	cma	19	Owned	New	Non-foil	1	W	~~	~~	Instant
-Swords to Plowshares	bbd	110	Owned	New	Non-foil	1	W	~~	~~	Instant
+Path to Exile	f15	7	Owned	New	Non-foil	1	W	~~	~~	Instant
+Swords to Plowshares	ice	54	Owned	New	Non-foil	1	W	~~	~~	Instant
 Disenchant	4ed	22	Owned	New	Non-foil	2	W	~~	~~	Instant
 Disenchant	4ed	22	Owned	New	Non-foil	2	W	~~	~~	Instant
 Disenchant	4ed	22	Owned	New	Non-foil	2	W	~~	~~	Instant
@@ -54,7 +54,7 @@ Mana Drain	leg	65	Owned	New	Non-foil	2	U	~~	~~	Instant
 Mana Leak	sth	36	Owned	New	Non-foil	2	U	~~	~~	Instant
 Miscalculation	ulg	36	Owned	New	Non-foil	2	U	~~	~~	Instant
 Remand	tsr	316	Owned	New	Non-foil	2	U	~~	~~	Instant
-Frantic Search	uma	57	Owned	New	Non-foil	3	U	~~	~~	Instant
+Frantic Search	ulg	32	Owned	New	Non-foil	3	U	~~	~~	Instant
 Cryptic Command	ppro	2020-1	Owned	New	Foil	4	U	~~	~~	Instant
 Fact or Fiction	mh1	50	Owned	New	Non-foil	4	U	~~	~~	Instant
 Turnabout	usg	105	Owned	New	Non-foil	4	U	~~	~~	Instant
@@ -134,10 +134,10 @@ Joraga Treespeaker	roe	190	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Llanowar Elves	gnt	46	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Noble Hierarch	uma	174	Owned	New	Foil	1	W,U,G	~~	~~	Creature — Human Druid
 Devoted Druid	uma	162	Owned	New	Non-foil	2	G	~~	~~	Creature — Elf Druid
-Rofellos, Llanowar Emissary	vma	229	Owned	New	Non-foil	2	G	~~	~~	Legendary Creature — Elf Druid
+Rofellos, Llanowar Emissary	uds	118	Owned	New	Non-foil	2	G	~~	~~	Legendary Creature — Elf Druid
 Scavenging Ooze	plg21	5	Owned	New	Non-foil	2	G	~~	~~	Creature — Ooze
 Courser of Kruphix	tsr	359	Owned	New	Foil	3	G	~~	~~	Enchantment Creature — Centaur
-Eternal Witness	uma	163	Owned	New	Non-foil	3	G	~~	~~	Creature — Human Shaman
+Eternal Witness	puma	U16	Owned	New	Foil	3	G	~~	~~	Creature — Human Shaman
 Ramunap Excavator	hou	129	Owned	New	Non-foil	3	G	~~	~~	Creature — Naga Cleric
 Reclamation Sage	c18	159	Owned	New	Non-foil	3	G	~~	~~	Creature — Elf Shaman
 Tireless Tracker	soi	233	Owned	New	Non-foil	3	G	~~	~~	Creature — Human Scout
@@ -155,7 +155,7 @@ Regrowth	mh1	175	Owned	New	Non-foil	2	G	~~	~~	Sorcery
 Natural Order	ema	177	Owned	New	Non-foil	4	G	~~	~~	Sorcery
 Plow Under	uds	117	Owned	New	Non-foil	5	G	~~	~~	Sorcery
 Green Sun's Zenith	2x2	150	Owned	New	Non-foil	1	G	~~	~~	Sorcery
-Fastbond	vma	209	Proxied	New	Non-foil	1	G	~~	~~	Enchantment
+Fastbond	2ed	193	Owned	New	Non-foil	1	G	~~	~~	Enchantment
 Oath of Druids	c16	159	Proxied	New	Non-foil	2	G	~~	~~	Enchantment
 Survival of the Fittest	tpr	199	Proxied	New	Non-foil	2	G	~~	~~	Enchantment
 Heartbeat of Spring	chk	212	Owned	New	Non-foil	3	G	~~	~~	Enchantment
@@ -167,7 +167,7 @@ Flooded Strand	zne	1	Owned	New	Non-foil	0	~~	~~	~~	Land
 Hallowed Fountain	unf	277	Owned	New	Non-foil	0	W,U	~~	~~	Land — Plains Island
 Seachrome Coast	one	374	Owned	New	Foil	0	W,U	~~	~~	Land
 Tundra	vma	322	Proxied	New	Non-foil	0	W,U	~~	~~	Land — Plains Island
-Baleful Strix	e01	80	Owned	New	Non-foil	2	U,B	~~	~~	Artifact Creature — Bird
+Baleful Strix	brc	120	Owned	New	Non-foil	2	U,B	~~	~~	Artifact Creature — Bird
 Darkslick Shores	one	372	Owned	New	Foil	0	U,B	~~	~~	Land
 Polluted Delta	zne	2	Owned	New	Non-foil	0	~~	~~	~~	Land
 Underground Sea	vma	323	Proxied	New	Non-foil	0	U,B	~~	~~	Land — Island Swamp
@@ -254,7 +254,7 @@ Umezawa's Jitte	v16	14	Owned	New	Foil	2	~~	~~	~~	Legendary Artifact — Equipmen
 Winter Orb	ema	234	Owned	New	Non-foil	2	~~	~~	~~	Artifact
 Basalt Monolith	cma	210	Owned	New	Non-foil	3	~~	~~	~~	Artifact
 Coalition Relic	tsr	266	Owned	New	Non-foil	3	~~	~~	~~	Artifact
-Crucible of Worlds	2x2	303	Owned	New	Non-foil	3	~~	~~	~~	Artifact
+Crucible of Worlds	j13	4	Owned	New	Non-foil	3	~~	~~	~~	Artifact
 Sword of Feast and Famine	2xm	364	Owned	New	Foil	3	~~	~~	~~	Artifact — Equipment
 Worn Powerstone	usg	318	Owned	New	Non-foil	3	~~	~~	~~	Artifact
 Smokestack	v14	11	Owned	New	Foil	4	~~	~~	~~	Artifact
@@ -315,13 +315,13 @@ The Wandering Emperor	neo	316	Owned	~~	Non-foil	4	W	~~	~~	Legendary Planeswalker
 Murktide Regent	mh2	52	Owned	~~	Non-foil	7	U	~~	~~	Creature — Dragon
 Murktide Regent	mh2	52	Owned	~~	Non-foil	7	U	~~	~~	Creature — Dragon
 Sedgemoor Witch	stx	306	Owned	~~	Foil	3	B	~~	~~	Creature — Human Warlock
-Dauthi Voidwalker	mh2	450	Owned	~~	Foil	2	B	~~	~~	Creature — Dauthi Rogue
+Dauthi Voidwalker	mh2	397	Owned	~~	Foil	2	B	~~	~~	Creature — Dauthi Rogue
 Bonecrusher Giant	eld	115	Owned	~~	Non-foil	3	R	~~	~~	Creature — Giant
 Goblin Bombardment	tmp	179	Owned	~~	Non-foil	2	R	~~	~~	Enchantment
 Fable of the Mirror-Breaker	neo	141	Owned	~~	Non-foil	3	R	~~	~~	Enchantment — Saga
 Red Elemental Blast	2ed	170	Owned	~~	Non-foil	1	R	~~	~~	Instant
 Utopia Sprawl	a25	192	Owned	~~	Non-foil	1	G	~~	~~	Enchantment — Aura
-Crop Rotation	ddr	7	Owned	~~	Non-foil	1	G	~~	~~	Instant
+Crop Rotation	2xm	349	Owned	~~	Foil	1	G	~~	~~	Instant
 Hornet Queen	m15	178	Owned	~~	Non-foil	7	G	~~	~~	Creature — Insect
 Pest Infestation	c21	65	Owned	~~	Non-foil	1	G	~~	~~	Sorcery
 Life from the Loam	sld	8	Owned	~~	Non-foil	2	G	~~	~~	Sorcery
@@ -337,7 +337,7 @@ Fiery Islet	mh1	238	Proxied	~~	Non-foil	0	R,U	~~	~~	Land
 Sunbaked Canyon	mh1	247	Owned	~~	Non-foil	0	R,W	~~	~~	Land
 Bone Shards	mh2	395	Owned	~~	Foil	1	B	~~	~~	Sorcery
 Corpse Dance	tmp	116	Proxied	~~	Non-foil	3	B	~~	~~	Instant
-Exploration	cns	164	Proxied	~~	Non-foil	1	G	~~	~~	Enchantment
+Exploration	2xm	351	Owned	~~	Foil	1	G	~~	~~	Enchantment
 Dryad of the Ilysian Grove	thb	169	Owned	~~	Non-foil	3	G	~~	~~	Enchantment Creature — Nymph Dryad
 Unlicensed Hearse	snc	246	Owned	~~	Non-foil	2	~~	~~	~~	Artifact — Vehicle
 Kaito Shizuki	neo	424	Owned	~~	Etched	3	U,B	~~	~~	Legendary Planeswalker — Kaito
@@ -360,7 +360,7 @@ Embercleave	plst	ELD-120	Owned	~~	Non-foil	6	R	~~	~~	Legendary Artifact — Equi
 Wildfire	usg	228	Owned	~~	Non-foil	6	R	~~	~~	Sorcery
 Burning of Xinye	v14	2	Owned	~~	Foil	6	R	~~	~~	Sorcery
 Kytheon, Hero of Akros	ori	23	Owned	~~	Non-foil	1	W	~~	~~	Legendary Creature — Human Soldier
-Condemn	cmr	369	Owned	~~	Non-foil	1	W	~~	~~	Instant
+Condemn	rvr	304	Owned	~~	Foil	1	W	~~	~~	Instant
 Unexpectedly Absent	cma	27	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Charming Prince	eld	8	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Noble
 Adeline, Resplendent Cathar	mid	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -490,8 +490,8 @@ Mind Twist	leb	116	Proxied	~~	Non-foil	1	B	~~	~~	Sorcery
 Dismember	tsr	322	Owned	~~	Non-foil	3	B	~~	~~	Instant
 Ashen Rider	2x2	472	Owned	~~	Etched	8	B,W	~~	~~	Creature — Archon
 Night's Whisper	dmc	115	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
-Endurance	mh2	317	Proxied	~~	Non-foil	3	G	~~	~~	Creature — Elemental Incarnation
-Titania, Protector of Argoth	mh2	287	Owned	~~	Etched	5	G	~~	~~	Legendary Creature — Elemental
+Endurance	mh2	317	Owned	~~	Non-foil	3	G	~~	~~	Creature — Elemental Incarnation
+Titania, Protector of Argoth	mh2	319	Owned	~~	Foil	5	G	~~	~~	Legendary Creature — Elemental
 Tovolar's Huntmaster	mid	306	Owned	~~	Non-foil	6	G	~~	~~	Creature — Human Werewolf
 Kozilek, Butcher of Truth	2x2	576	Owned	~~	Non-foil	10	~~	~~	~~	Legendary Creature — Eldrazi
 Raffine's Tower	snc	254	Proxied	~~	Non-foil	0	W,U,B	~~	~~	Land — Plains Island Swamp
@@ -539,4 +539,4 @@ Restless Spire	woe	306	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Restless Vinestalk	woe	307	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Restless Cottage	woe	304	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Inferno Titan	cmm	541	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Thirst for Discovery	vow	333	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thirst for Discovery	vow	85	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
