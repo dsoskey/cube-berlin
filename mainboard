@@ -19,7 +19,6 @@ Snapcaster Mage	uma	71	Owned	New	Non-foil	2	U	~~	~~	Creature — Human Wizard
 Deceiver Exarch	nph	33	Owned	New	Non-foil	3	U	~~	~~	Creature — Cleric
 Pestermite	mma	59	Owned	New	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
 Venser, Shaper Savant	tsr	96	Owned	New	Foil	4	U	~~	~~	Legendary Creature — Human Wizard
-Mulldrifter	tsr	311	Owned	New	Non-foil	5	U	~~	~~	Creature — Elemental
 Consecrated Sphinx	2x2	345	Owned	New	Non-foil	6	U	~~	~~	Creature — Sphinx
 Tezzeret the Seeker	med	WS4	Owned	New	Foil	5	U	~~	~~	Legendary Planeswalker — Tezzeret
 Brainstorm	mmq	61	Owned	New	Non-foil	1	U	~~	~~	Instant
@@ -76,7 +75,6 @@ Bitterblossom	2x2	69	Owned	New	Non-foil	2	B	~~	~~	Tribal Enchantment — Faerie
 Necromancy	vis	64	Owned	New	Non-foil	3	B	~~	~~	Enchantment
 Recurring Nightmare	exo	72	Owned	New	Non-foil	3	B	~~	~~	Enchantment
 Grim Lavamancer	dmr	324	Owned	New	Foil	1	R	~~	~~	Creature — Human Wizard
-Monastery Swiftspear	tsr	349	Owned	New	Non-foil	1	R	~~	~~	Creature — Human Monk
 Dire Fleet Daredevil	rix	99	Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Pirate
 Young Pyromancer	tsr	353	Owned	New	Foil	2	R	~~	~~	Creature — Human Shaman
 Imperial Recruiter	a25	136	Owned	New	Non-foil	3	R	~~	~~	Creature — Human Advisor
@@ -214,7 +212,6 @@ Force of Negation	mh1	52	Proxied	~~	Non-foil	3	U	~~	~~	Instant
 Urza, Lord High Artificer	h1r	11	Owned	~~	Etched	4	U	~~	~~	Legendary Creature — Human Artificer
 Brazen Borrower	eld	281	Owned	~~	Foil	3	U	~~	~~	Creature — Faerie Rogue 
 Bolas's Citadel	plg21	3	Owned	~~	Foil	6	B	~~	~~	Legendary Artifact
-Murderous Rider	eld	97	Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Knight 
 Teferi, Time Raveler	sld	526	Owned	~~	Foil	3	U,W	~~	~~	Legendary Planeswalker — Teferi
 Wrenn and Six	2x2	574	Owned	~~	Foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
 Oko, Thief of Crowns	eld	271	Owned	~~	Non-foil	3	U,G	~~	~~	Legendary Planeswalker — Oko
@@ -240,7 +237,7 @@ Ignoble Hierarch	mh2	166	Owned	~~	Non-foil	1	B,G,R	~~	~~	Creature — Goblin Sha
 Expressive Iteration	stx	186	Owned	~~	Non-foil	2	R,U	~~	~~	Sorcery
 Urza's Saga	mh2	259	Proxied	~~	Non-foil	0	~~	~~	~~	Enchantment Land — Urza’s Saga
 Karmic Guide	mh2	263	Owned	~~	Non-foil	5	W	~~	~~	Creature — Angel Spirit
-Laelia, the Blade Reforged	c21	53	Owned	~~	Non-foil	3	R	~~	~~	Legendary Creature — Spirit Warrior
+Laelia, the Blade Reforged	c21	380	Owned	~~	Non-foil	3	R	~~	~~	Legendary Creature — Spirit Warrior
 Augur of Autumn	mid	168	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Druid
 Esper Sentinel	mh2	12	Owned	~~	Non-foil	1	W	~~	~~	Artifact Creature — Human Soldier
 Lion Sash	neo	26	Owned	~~	Non-foil	2	W	~~	~~	Artifact Creature — Equipment Cat
@@ -311,7 +308,6 @@ Glorybringer	pakh	134	Owned	~~	Foil	5	R	~~	~~	Creature — Dragon
 Light Up the Stage	afc	131	Owned	~~	Non-foil	3	R	~~	~~	Sorcery
 Robber of the Rich	eld	365	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ophiomancer	cc2	3	Owned	~~	Non-foil	3	B	~~	~~	Creature — Human Shaman
-Ravenous Chupacabra	rix	82	Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Horror
 Golos, Tireless Pilgrim	m20	226	Owned	~~	Non-foil	5	B,G,R,U,W	~~	~~	Legendary Artifact Creature — Scout
 Solemn Simulacrum	tsr	400	Owned	~~	Foil	4	~~	~~	~~	Artifact Creature — Golem
 Spellskite	nph	159	Owned	~~	Non-foil	2	~~	~~	~~	Artifact Creature — Phyrexian Horror
@@ -321,7 +317,6 @@ Creeping Tar Pit	puma	U34	Owned	~~	Foil	0	U,B	~~	~~	Land
 Raging Ravine	puma	U38	Owned	~~	Foil	0	R,G	~~	~~	Land
 Nissa, Vastwood Seer	v17	15	Owned	~~	Non-foil	3	G	~~	~~	Legendary Creature — Elf Scout
 Leovold, Emissary of Trest	puma	U22	Owned	~~	Foil	3	B,G,U	~~	~~	Legendary Creature — Elf Advisor
-Emry, Lurker of the Loch	slc	2019	Owned	~~	Foil	3	U	~~	~~	Legendary Creature — Merfolk Wizard
 Vendilion Clique	j22	368	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yawgmoth, Thran Physician	dmr	315	Owned	~~	Foil	4	B	~~	~~	Legendary Creature — Human Cleric
 Yawgmoth's Will	usg	171	Owned	~~	Non-foil	3	B	~~	~~	Sorcery
@@ -398,7 +393,7 @@ Dark Confidant	g11	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Displacer Kitten	clb	63	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Student of Warfare	roe	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mind's Desire	sta	17	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Trinket Mage	5dn	39	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Trinket Mage	tsr	320	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra, Hope's Beacon	mom	321	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Rolling Earthquake	2xm	142	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voice of Resurgence	2xm	227	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -531,16 +526,22 @@ Council's Judgment	2xm	336	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Land Tax	cmm	464	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Parallax Wave	nem	17	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace, Vryn's Prodigy	ori	60	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hullbreacher	cmr	635	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hullbreacher	cmr	74	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Torrential Gearhulk	kld	67	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace, the Mind Sculptor	med	WS3	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dig Through Time	plg21	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dream Halls	sth	28	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodghast	ima	82	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Birgi, God of Storytelling	khm	311	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Who Shakes the World	sld	518	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Vivien, Monsters' Advocate	iko	277	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Thief of Sanity	ncc	354	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fallen Shinobi	mh1	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Valki, God of Lies	khm	286	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	2xm	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Grief	mh2	311	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Luminarch Aspirant	znr	24	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Silence	plst	TSR-302	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Staff of the Storyteller	onc	48	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Glimmer Lens	onc	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Infernal Grasp	mid	107	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Prismatic Ending	mh2	25	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
