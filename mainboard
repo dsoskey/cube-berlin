@@ -74,8 +74,8 @@ Tendrils of Agony	scg	75	Owned	New	Non-foil	4	B	~~	~~	Sorcery
 Animate Dead	5ed	140	Owned	New	Non-foil	2	B	~~	~~	Enchantment — Aura
 Bitterblossom	2x2	69	Owned	New	Non-foil	2	B	~~	~~	Tribal Enchantment — Faerie
 Necromancy	vis	64	Owned	New	Non-foil	3	B	~~	~~	Enchantment
-Recurring Nightmare	tpr	113	Proxied	New	Non-foil	3	B	~~	~~	Enchantment
-Grim Lavamancer	e01	50	Owned	New	Non-foil	1	R	~~	~~	Creature — Human Wizard
+Recurring Nightmare	exo	72	Owned	New	Non-foil	3	B	~~	~~	Enchantment
+Grim Lavamancer	dmr	324	Owned	New	Foil	1	R	~~	~~	Creature — Human Wizard
 Monastery Swiftspear	tsr	349	Owned	New	Non-foil	1	R	~~	~~	Creature — Human Monk
 Dire Fleet Daredevil	rix	99	Owned	~~	Non-foil	2	R	~~	~~	Creature — Human Pirate
 Young Pyromancer	tsr	353	Owned	New	Foil	2	R	~~	~~	Creature — Human Shaman
@@ -87,11 +87,11 @@ Burst Lightning	mm2	109	Owned	New	Non-foil	1	R	~~	~~	Instant
 Lightning Bolt	pf19	1	Owned	New	Foil	1	R	~~	~~	Instant
 Abrade	hou	83	Owned	New	Non-foil	2	R	~~	~~	Instant
 Seething Song	ddg	70	Owned	New	Non-foil	3	R	~~	~~	Instant
-Chain Lightning	bbd	171	Owned	New	Non-foil	1	R	~~	~~	Sorcery
+Chain Lightning	dmr	316	Owned	New	Foil	1	R	~~	~~	Sorcery
 Faithless Looting	brc	116	Owned	New	Non-foil	1	R	~~	~~	Sorcery
 Firebolt	mh1	122	Owned	New	Non-foil	1	R	~~	~~	Sorcery
 Zuran Orb	ice	350	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sulfuric Vortex	ema	150	Owned	New	Non-foil	3	R	~~	~~	Enchantment
+Sulfuric Vortex	dmr	332	Owned	New	Foil	3	R	~~	~~	Enchantment
 Sneak Attack	dmr	331	Owned	New	Foil	4	R	~~	~~	Enchantment
 Splinter Twin	mm2	129	Owned	New	Non-foil	4	R	~~	~~	Enchantment — Aura
 Birds of Paradise	dmr	336	Owned	New	Foil	1	G	~~	~~	Creature — Bird
@@ -100,7 +100,7 @@ Fyndhorn Elves	p30a	3	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Joraga Treespeaker	roe	190	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Llanowar Elves	gnt	46	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Noble Hierarch	uma	174	Owned	New	Foil	1	W,U,G	~~	~~	Creature — Human Druid
-Devoted Druid	uma	162	Owned	New	Non-foil	2	G	~~	~~	Creature — Elf Druid
+Devoted Druid	shm	110	Owned	New	Non-foil	2	G	~~	~~	Creature — Elf Druid
 Rofellos, Llanowar Emissary	uds	118	Owned	New	Non-foil	2	G	~~	~~	Legendary Creature — Elf Druid
 Scavenging Ooze	plg21	5	Owned	New	Non-foil	2	G	~~	~~	Creature — Ooze
 Courser of Kruphix	tsr	359	Owned	New	Foil	3	G	~~	~~	Enchantment Creature — Centaur
@@ -204,7 +204,7 @@ Memory Jar	ulg	129	Owned	New	Non-foil	5	~~	~~	~~	Artifact
 Mindslaver	som	176	Owned	New	Non-foil	6	~~	~~	~~	Legendary Artifact
 Academy Ruins	2xm	369	Owned	New	Foil	0	U	~~	~~	Legendary Land
 Ancient Tomb	ltc	387	Owned	New	Foil	0	~~	~~	~~	Land
-Mishra's Workshop	vma	305	Proxied	New	Non-foil	0	~~	~~	~~	Land
+Mishra's Workshop	atq	81	Proxied	New	Non-foil	0	~~	~~	~~	Land
 Strip Mine	sld	472	Owned	New	Foil	0	~~	~~	~~	Land
 Wasteland	zne	30	Owned	New	Non-foil	0	~~	~~	~~	Land
 Giver of Runes	h1r	3	Owned	~~	Etched	1	W	~~	~~	Creature — Kor Cleric
@@ -229,17 +229,17 @@ Thieving Skydiver	znr	335	Owned	~~	Non-foil	2	U	~~	~~	Creature — Merfolk Rogue
 Hexdrinker	mh1	168	Owned	~~	Non-foil	1	G	~~	~~	Creature — Snake
 Omnath, Locus of Creation	znr	312	Owned	~~	Foil	4	W,U,B,R,G	~~	~~	Legendary Creature — Elemental
 Timeless Lotus	dmu	239	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Goldspan Dragon	khm	139	Proxied	~~	Non-foil	5	R	~~	~~	Creature — Dragon
+Goldspan Dragon	khm	139	Owned	~~	Non-foil	5	R	~~	~~	Creature — Dragon
 Elite Spellbinder	stx	17	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Cleric
 Palace Jailer	tsr	298	Owned	~~	Foil	4	W	~~	~~	Creature — Human Soldier
 Archon of Cruelty	mh2	342	Owned	~~	Foil	8	B	~~	~~	Creature — Archon
 Ragavan, Nimble Pilferer	mh2	315	Owned	~~	Non-foil	1	R	~~	~~	Legendary Creature — Monkey Pirate
 Unholy Heat	mh2	145	Owned	~~	Non-foil	1	R	~~	~~	Instant
 Dragon's Rage Channeler	mh2	121	Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Shaman
-Ignoble Hierarch	mh2	414	Owned	~~	Non-foil	1	B,G,R	~~	~~	Creature — Goblin Shaman
+Ignoble Hierarch	mh2	166	Owned	~~	Non-foil	1	B,G,R	~~	~~	Creature — Goblin Shaman
 Expressive Iteration	stx	186	Owned	~~	Non-foil	2	R,U	~~	~~	Sorcery
 Urza's Saga	mh2	259	Proxied	~~	Non-foil	0	~~	~~	~~	Enchantment Land — Urza’s Saga
-Karmic Guide	sld	281	Owned	~~	Non-foil	5	W	~~	~~	Creature — Angel Spirit
+Karmic Guide	mh2	263	Owned	~~	Non-foil	5	W	~~	~~	Creature — Angel Spirit
 Laelia, the Blade Reforged	c21	53	Owned	~~	Non-foil	3	R	~~	~~	Legendary Creature — Spirit Warrior
 Augur of Autumn	mid	168	Owned	~~	Non-foil	3	G	~~	~~	Creature — Human Druid
 Esper Sentinel	mh2	12	Owned	~~	Non-foil	1	W	~~	~~	Artifact Creature — Human Soldier
@@ -249,7 +249,7 @@ The Wandering Emperor	neo	316	Owned	~~	Non-foil	4	W	~~	~~	Legendary Planeswalker
 Sedgemoor Witch	stx	306	Owned	~~	Foil	3	B	~~	~~	Creature — Human Warlock
 Dauthi Voidwalker	mh2	397	Owned	~~	Foil	2	B	~~	~~	Creature — Dauthi Rogue
 Bonecrusher Giant	eld	115	Owned	~~	Non-foil	3	R	~~	~~	Creature — Giant
-Fable of the Mirror-Breaker	neo	141	Owned	~~	Non-foil	3	R	~~	~~	Enchantment — Saga
+Fable of the Mirror-Breaker	neo	357	Owned	~~	Non-foil	3	R	~~	~~	Enchantment — Saga
 Red Elemental Blast	2ed	170	Owned	~~	Non-foil	1	R	~~	~~	Instant
 Utopia Sprawl	a25	192	Owned	~~	Non-foil	1	G	~~	~~	Enchantment — Aura
 Crop Rotation	2xm	349	Owned	~~	Foil	1	G	~~	~~	Instant
@@ -330,7 +330,7 @@ Ledger Shredder	snc	46	Owned	~~	Non-foil	2	U	~~	~~	Creature — Bird Advisor
 Vengevine	puma	U20	Owned	~~	Foil	4	G	~~	~~	Creature — Elemental
 Echo of Eons	mh1	46	Owned	~~	Non-foil	6	U	~~	~~	Sorcery
 Through the Breach	uma	152	Owned	~~	Non-foil	5	R	~~	~~	Instant — Arcane
-Fireblast	pd2	26	Owned	~~	Non-foil	6	R	~~	~~	Instant
+Fireblast	dmr	319	Owned	~~	Foil	6	R	~~	~~	Instant
 Sylvan Library	dmr	350	Owned	~~	Foil	2	G	~~	~~	Enchantment
 Questing Beast	eld	372	Owned	~~	Non-foil	4	G	~~	~~	Legendary Creature — Beast
 Toski, Bearer of Secrets	khm	319	Owned	~~	Non-foil	4	G	~~	~~	Legendary Creature — Squirrel
@@ -382,7 +382,7 @@ Custodi Lich	cn2	41	Owned	~~	Non-foil	5	B	~~	~~	Creature — Zombie Cleric
 Sheoldred, the Apocalypse	dmu	436	Owned	~~	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
 Vampire Hexmage	tsr	335	Owned	~~	Foil	2	B	~~	~~	Creature — Vampire Shaman
 Elesh Norn, Mother of Machines	one	415	Owned	~~	Non-foil	5	W	~~	~~	Legendary Creature — Phyrexian Praetor
-Underworld Breach	thb	161	Owned	~~	Non-foil	2	R	~~	~~	Enchantment
+Underworld Breach	thb	324	Owned	~~	Non-foil	2	R	~~	~~	Enchantment
 Mishra's Bauble	brr	97	Owned	~~	Foil	0	~~	~~	~~	Artifact
 Faerie Mastermind	mom	352	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jadar, Ghoulcaller of Nephalia	mid	108	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -406,121 +406,121 @@ Restless Fortress	woe	305	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Restless Vinestalk	woe	307	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Inferno Titan	cmm	541	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thirst for Discovery	vow	85	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Inspiring Vantage	otj	303	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Inspiring Vantage	otj	303	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Touch the Spirit Realm	neo	40	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sevinne's Reclamation	c19	5	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Usher of the Fallen	khm	35	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oust	roe	40	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Aven Interrupter	otj	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Loran of the Third Path	bro	12	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Loran of the Third Path	bro	304	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Malcolm, Alluring Scoundrel	lci	63	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flesh Duplicate	who	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Duelist of the Mind	otj	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hard Evidence	mh2	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Forensic Gadgeteer	mkm	57	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Chrome Host Seedshark	mom	51	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chrome Host Seedshark	mom	350	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flash	mir	66	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lórien Revealed	ltr	60	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Kappa Cannoneer	nec	14	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kappa Cannoneer	nec	50	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Subtlety	mh2	309	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Concealing Curtains	vow	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Evolved Sleeper	dmu	93	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Tourach, Dread Cantor	mh2	102	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Unmarked Grave	mh2	106	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Concealing Curtains	vow	367	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Evolved Sleeper	dmu	402	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tourach, Dread Cantor	mh2	402	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Unmarked Grave	mh2	453	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wishclaw Talisman	eld	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Persist	mh2	400	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Necron Deathmark	40k	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unearth	ulg	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Snuff Out	mmq	162	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sheoldred's Edict	one	108	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bitter Triumph	lci	91	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bitter Triumph	lci	91	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Baleful Mastery	stx	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Troll of Khazad-dûm	ltr	111	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Life // Death	apc	130	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Generous Plunderer	big	11	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Magda, Brazen Outlaw	khm	142	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloodthirsty Adversary	mid	129	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Magda, Brazen Outlaw	khm	312	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodthirsty Adversary	mid	129	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Inti, Seneschal of the Sun	lci	156	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gut, True Soul Zealot	clb	180	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scrapwork Mutt	bro	164	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Broadside Bombardiers	lcc	86	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Emberwilde Captain	cmr	175	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Headliner Scarlett	clu	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mine Collapse	mh2	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mine Collapse	mh2	408	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Firestorm	wth	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Pyrokinesis	all	78	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Simian Spirit Guide	plc	122	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pyrokinesis	ema	143	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Simian Spirit Guide	tsr	190	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pyretic Ritual	m11	153	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Mizzium Mortars	rtr	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Flame Slash	roe	145	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mizzium Mortars	c15	163	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flame Slash	sch	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tribal Flames	inv	176	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sentinel of the Nameless City	lci	211	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sentinel of the Nameless City	lci	383	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Generous Ent	ltr	169	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Vaultborn Tyrant	big	20	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Vaultborn Tyrant	big	61	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
 Haywire Mite	bro	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Esika's Chariot	khm	169	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bristlebud Farmer	big	17	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Delighted Halfling	ltr	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Delighted Halfling	ltr	774	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Railway Brawler	otj	175	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gruff Triplets	woe	172	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Briarbridge Tracker	mid	172	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Briarbridge Tracker	mid	361	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Nishoba Brawler	dmu	174	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Outland Liberator	mid	190	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Outland Liberator	mid	303	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tamiyo, Collector of Tales	war	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Kinnan, Bonder Prodigy	iko	192	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Cruel Ultimatum	ala	164	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kinnan, Bonder Prodigy	iko	338	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cruel Ultimatum	v13	17	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Torsten, Founder of Benalia	dmc	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sail into the West	ltc	68	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sail into the West	ltc	149	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire Covenant	ice	289	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Arwen, Mortal Queen	ltr	193	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arwen, Mortal Queen	ltr	193	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Carnage Interpreter	clu	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pillage the Bog	otj	224	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bring to Light	bfz	209	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Lim-Dûl's Vault	all	107	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lim-Dûl's Vault	slc	1996	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 The Gitrog, Ravenous Ride	otj	206	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Third Path Iconoclast	bro	223	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodtithe Harvester	vow	232	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Magma Opus	stx	203	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Magma Opus	stx	203	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Thopter Foundry	arb	133	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Indulgence	mrd	255	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Creativity	mh1	231	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Resilience	mh1	234	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Conviction	mh1	230	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Dominance	mrd	253	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Hierarchy	mh1	233	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Progress	mrd	256	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Curiosity	mh1	232	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Impulse	mrd	254	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Talisman of Unity	mrd	257	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Talisman of Indulgence	sld	1054	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
+Talisman of Creativity	sld	1058	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
+Talisman of Resilience	sld	1059	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
+Talisman of Conviction	sld	1060	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
+Talisman of Dominance	sld	1053	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
+Talisman of Hierarchy	sld	1057	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
+Talisman of Progress	sld	1052	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
+Talisman of Curiosity	sld	1061	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
+Talisman of Impulse	sld	1055	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
+Talisman of Unity	sld	1056	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
 Candelabra of Tawnos	atq	43	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Triplicate Titan	plst	C21-79	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Palantír of Orthanc	ltr	247	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Triplicate Titan	c21	79	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Palantír of Orthanc	ltr	792	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Relic of Sauron	ltc	79	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mox Opal	som	179	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lotus Petal	tmp	294	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystic Forge	m20	233	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Pentad Prism	5dn	143	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Currency Converter	ncc	81	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Pentad Prism	2xm	281	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Currency Converter	ncc	181	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Portal to Phyrexia	bro	240	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Chromatic Star	tsp	251	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of the Meek	fut	165	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chromatic Star	2xm	239	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Meek	2xm	299	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lotus Field	m20	249	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Underground Mortuary	mkm	271	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Commercial District	mkm	259	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hedge Maze	mkm	262	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Undercity Sewers	mkm	270	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Thundering Falls	mkm	269	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Shadowy Backstreet	mkm	268	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Meticulous Archive	mkm	264	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Raucous Theater	mkm	266	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Lush Portico	mkm	263	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Underground Mortuary	mkm	333	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Commercial District	mkm	324	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Hedge Maze	mkm	326	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Undercity Sewers	mkm	332	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Thundering Falls	mkm	331	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Shadowy Backstreet	mkm	330	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Meticulous Archive	mkm	328	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Raucous Theater	mkm	329	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Lush Portico	mkm	327	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Deep-Cavern Bat	lci	102	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Otharri, Suns' Glory	onc	3	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pick Your Poison	mkm	170	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Brutal Cathar	mid	286	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Containment Priest	m21	314	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Containment Priest	m21	314	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Hero of Bladehold	p11	8	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Restoration Angel	ima	28	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Restoration Angel	tsr	300	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Solitude	mh2	307	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth, Sun's Champion	sld	1140	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mana Tithe	sta	8	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -538,8 +538,8 @@ Dig Through Time	plg21	2	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dream Halls	sth	28	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodghast	ima	82	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Birgi, God of Storytelling	khm	311	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Nissa, Who Shakes the World	sld	518	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Vivien, Monsters' Advocate	iko	277	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nissa, Who Shakes the World	sld	518	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Vivien, Monsters' Advocate	iko	277	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Thief of Sanity	ncc	354	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fallen Shinobi	mh1	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Valki, God of Lies	khm	286	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
