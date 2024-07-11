@@ -1,6 +1,6 @@
 Name	Set	CollectorNumber	Status	Tags	Finish	Cmc	Colors	ColorCategory	Rarity	TypeLine
 Mother of Runes	ema	22	Owned	New	Non-foil	1	W	~~	~~	Creature — Human Cleric
-Porcelain Legionnaire	nph	19	Owned	New	Non-foil	3	W	~~	~~	Artifact Creature — Soldier
+Porcelain Legionnaire	nph	19	Owned	New	Non-foil	"""2"""	W	~~	~~	Artifact Creature — Soldier
 Stoneforge Mystic	2xm	337	Owned	New	Foil	2	W	~~	~~	Creature — Kor Artificer
 Thalia, Guardian of Thraben	vow	318	Owned	New	Non-foil	2	W	~~	~~	Legendary Creature — Human Soldier
 Wall of Omens	2x2	33	Owned	New	Foil	2	W	~~	~~	Creature — Wall
@@ -522,7 +522,7 @@ Vivien, Monsters' Advocate	iko	277	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Thief of Sanity	ncc	354	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fallen Shinobi	mh1	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Valki, God of Lies	khm	286	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Phyrexian Metamorph	2xm	61	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phyrexian Metamorph	2xm	61	Owned	~~	~~	"""3"""	~~	~~	~~	~~
 Grief	mh2	311	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Luminarch Aspirant	znr	24	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Staff of the Storyteller	onc	48	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
