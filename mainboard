@@ -19,7 +19,7 @@ Snapcaster Mage	uma	71	Owned	New	Non-foil	2	U	~~	~~	Creature — Human Wizard
 Deceiver Exarch	nph	33	Owned	New	Non-foil	3	U	~~	~~	Creature — Cleric
 Pestermite	mma	59	Owned	New	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
 Venser, Shaper Savant	tsr	96	Owned	New	Foil	4	U	~~	~~	Legendary Creature — Human Wizard
-Consecrated Sphinx	2x2	345	Owned	New	Non-foil	6	U	~~	~~	Creature — Sphinx
+Jace, Wielder of Mysteries	war	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tezzeret the Seeker	med	WS4	Owned	New	Foil	5	U	~~	~~	Legendary Planeswalker — Tezzeret
 Brainstorm	mmq	61	Owned	New	Non-foil	1	U	~~	~~	Instant
 High Tide	fem	18c	Owned	New	Non-foil	1	U	~~	~~	Instant
@@ -78,7 +78,7 @@ Young Pyromancer	tsr	353	Owned	New	Foil	2	R	~~	~~	Creature — Human Shaman
 Imperial Recruiter	a25	136	Owned	New	Non-foil	3	R	~~	~~	Creature — Human Advisor
 Kiki-Jiki, Mirror Breaker	tsr	346	Owned	New	Foil	5	R	~~	~~	Legendary Creature — Goblin Shaman
 Zealous Conscripts	tsr	354	Owned	New	Foil	5	R	~~	~~	Creature — Human Warrior
-Daretti, Scrap Savant	cm2	4	Owned	New	Non-foil	4	R	~~	~~	Legendary Planeswalker — Daretti
+Oliphaunt	ltr	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Burst Lightning	mm2	109	Owned	New	Non-foil	1	R	~~	~~	Instant
 Lightning Bolt	pf19	1	Owned	New	Foil	1	R	~~	~~	Instant
 Abrade	hou	83	Owned	New	Non-foil	2	R	~~	~~	Instant
@@ -271,7 +271,7 @@ Mizzium Tank	war	138	Owned	~~	Foil	3	R	~~	~~	Artifact — Vehicle
 Fiery Confluence	cmm	536	Owned	~~	Etched	4	R	~~	~~	Sorcery
 Embercleave	plst	ELD-120	Owned	~~	Non-foil	6	R	~~	~~	Legendary Artifact — Equipment
 Kytheon, Hero of Akros	ori	23	Owned	~~	Non-foil	1	W	~~	~~	Legendary Creature — Human Soldier
-Condemn	rvr	304	Owned	~~	Foil	1	W	~~	~~	Instant
+Get Lost	lci	333	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unexpectedly Absent	cma	27	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Charming Prince	eld	8	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Noble
 Adeline, Resplendent Cathar	mid	1	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -326,7 +326,7 @@ Etali, Primal Conqueror	mom	298	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Banefire	m19	130	Owned	~~	Non-foil	1	R	~~	~~	Sorcery
 Goblin Rabblemaster	pm15	145	Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin Warrior
 Seasoned Pyromancer	2x2	363	Owned	~~	Non-foil	3	R	~~	~~	Creature — Human Shaman
-Skullclamp	brc	159	Owned	~~	Non-foil	1	~~	~~	~~	Artifact — Equipment
+Skullclamp	v09	12	Owned	~~	Foil	1	~~	~~	~~	Artifact — Equipment
 Sword of Fire and Ice	2xm	365	Owned	~~	Foil	3	~~	~~	~~	Artifact — Equipment
 The Scarab God	2xm	216	Owned	~~	Foil	5	U,B	~~	~~	Legendary Creature — God
 Black Lotus	ced	233	Owned	~~	Non-foil	0	~~	~~	~~	Artifact
@@ -399,7 +399,7 @@ Aven Interrupter	otj	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Loran of the Third Path	bro	304	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Malcolm, Alluring Scoundrel	lci	63	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Duelist of the Mind	otj	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hard Evidence	mh2	46	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Tamiyo, Inquisitive Student	mh3	443	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Forensic Gadgeteer	mkm	57	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chrome Host Seedshark	mom	350	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Flash	mir	66	Owned	~~	~~	"""~~"""	~~	~~	~~	~~

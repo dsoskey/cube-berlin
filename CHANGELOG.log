@@ -1761,3 +1761,12 @@ Timestamp	Board	ChangeType	Name
 2024-07-11T01:46:13.861+00:00	mainboard	add	Aether Spellbomb
 2024-07-11T01:46:13.861+00:00	mainboard	add	Doomsday
 2024-07-11T01:46:13.861+00:00	mainboard	add	Maze of Ith
+2024-07-11T13:36:04.364+00:00	mainboard	remove	Daretti, Scrap Savant
+2024-07-11T13:36:04.364+00:00	mainboard	add	Oliphaunt
+2024-07-11T13:36:04.364+00:00	mainboard	remove	Hard Evidence
+2024-07-11T13:36:04.364+00:00	mainboard	add	Tamiyo, Inquisitive Student
+2024-07-11T13:36:04.364+00:00	mainboard	remove	Condemn
+2024-07-11T13:36:04.364+00:00	mainboard	add	Get Lost
+2024-07-11T13:36:04.364+00:00	mainboard	remove	Consecrated Sphinx
+2024-07-11T13:36:04.364+00:00	mainboard	add	Jace, Wielder of Mysteries
+2024-07-11T13:36:04.364+00:00	mainboard	edit	Skullclamp
