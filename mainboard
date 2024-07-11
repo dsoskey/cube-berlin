@@ -89,7 +89,7 @@ Chain Lightning	dmr	316	Owned	New	Foil	1	R	~~	~~	Sorcery
 Faithless Looting	brc	116	Owned	New	Non-foil	1	R	~~	~~	Sorcery
 Firebolt	mh1	122	Owned	New	Non-foil	1	R	~~	~~	Sorcery
 Zuran Orb	ice	350	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sulfuric Vortex	dmr	332	Owned	New	Foil	3	R	~~	~~	Enchantment
+Detective's Phoenix	mh3	457	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sneak Attack	dmr	331	Owned	New	Foil	4	R	~~	~~	Enchantment
 Splinter Twin	mm2	129	Owned	New	Non-foil	4	R	~~	~~	Enchantment — Aura
 Birds of Paradise	dmr	336	Owned	New	Foil	1	G	~~	~~	Creature — Bird
@@ -97,7 +97,7 @@ Elvish Mystic	ddu	7	Proxied	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Fyndhorn Elves	p30a	3	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Fanatic of Rhonas	mh3	458	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Llanowar Elves	gnt	46	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
-Noble Hierarch	uma	174	Owned	New	Foil	1	W,U,G	~~	~~	Creature — Human Druid
+Noble Hierarch	uma	174	Owned	New	Foil	1	G	~~	~~	Creature — Human Druid
 Rofellos, Llanowar Emissary	uds	118	Owned	New	Non-foil	2	G	~~	~~	Legendary Creature — Elf Druid
 Scavenging Ooze	plg21	5	Owned	New	Non-foil	2	G	~~	~~	Creature — Ooze
 Courser of Kruphix	tsr	359	Owned	New	Foil	3	G	~~	~~	Enchantment Creature — Centaur
@@ -229,7 +229,7 @@ Archon of Cruelty	mh2	342	Owned	~~	Foil	8	B	~~	~~	Creature — Archon
 Ragavan, Nimble Pilferer	mh2	315	Owned	~~	Non-foil	1	R	~~	~~	Legendary Creature — Monkey Pirate
 Unholy Heat	mh2	145	Owned	~~	Non-foil	1	R	~~	~~	Instant
 Dragon's Rage Channeler	h2r	9	Owned	~~	Foil	1	R	~~	~~	Creature — Human Shaman
-Ignoble Hierarch	mh2	166	Owned	~~	Non-foil	1	B,G,R	~~	~~	Creature — Goblin Shaman
+Ignoble Hierarch	mh2	166	Owned	~~	Non-foil	1	G	~~	~~	Creature — Goblin Shaman
 Expressive Iteration	stx	186	Owned	~~	Non-foil	2	R,U	~~	~~	Sorcery
 Urza's Saga	mh2	259	Proxied	~~	Non-foil	0	~~	~~	~~	Enchantment Land — Urza’s Saga
 Karmic Guide	mh2	263	Owned	~~	Non-foil	5	W	~~	~~	Creature — Angel Spirit
@@ -299,7 +299,7 @@ Intrepid Adversary	mid	25	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Scout
 Selfless Spirit	emn	40	Owned	~~	Non-foil	2	W	~~	~~	Creature — Spirit Cleric
 Cathar Commando	mid	10	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Soldier
 Skyclave Apparition	znr	39	Owned	~~	Non-foil	3	W	~~	~~	Creature — Kor Spirit
-Intrepid Adversary	mid	25	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Scout
+Pyrogoyf	m3c	59	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glorybringer	pakh	134	Owned	~~	Foil	5	R	~~	~~	Creature — Dragon
 Light Up the Stage	afc	131	Owned	~~	Non-foil	3	R	~~	~~	Sorcery
 Robber of the Rich	eld	365	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -485,7 +485,7 @@ Triplicate Titan	c21	79	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Palantír of Orthanc	ltr	792	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Relic of Sauron	ltc	79	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mox Opal	som	179	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Lotus Petal	tmp	294	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lotus Petal	p30m	2	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
 Mystic Forge	m20	233	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pentad Prism	2xm	281	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Currency Converter	ncc	181	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -537,4 +537,4 @@ Glimmer Lens	onc	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Infernal Grasp	mid	107	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Psychic Frog	mh3	344	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Elvish Spirit Guide	sld	423	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Ajani, Nacatl Pariah	mh3	442	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ajani, Nacatl Pariah	mh3	442	Owned	~~	Foil	"""~~"""	W	~~	~~	~~
