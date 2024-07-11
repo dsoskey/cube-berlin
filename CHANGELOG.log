@@ -1777,3 +1777,6 @@ Timestamp	Board	ChangeType	Name
 2024-07-11T13:46:37.266+00:00	mainboard	remove	Tezzeret the Seeker
 2024-07-11T13:51:03.501+00:00	mainboard	edit	Porcelain Legionnaire
 2024-07-11T13:51:03.501+00:00	mainboard	edit	Phyrexian Metamorph
+2024-07-11T13:52:02.077+00:00	mainboard	remove	Elder Gargaroth
+2024-07-11T13:52:02.077+00:00	mainboard	add	Sanguine Evangelist
+2024-07-11T13:52:02.077+00:00	mainboard	add	Prismatic Ending
