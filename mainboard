@@ -95,7 +95,7 @@ Splinter Twin	mm2	129	Owned	New	Non-foil	4	R	~~	~~	Enchantment — Aura
 Birds of Paradise	dmr	336	Owned	New	Foil	1	G	~~	~~	Creature — Bird
 Elvish Mystic	ddu	7	Proxied	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Fyndhorn Elves	p30a	3	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
-Joraga Treespeaker	roe	190	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
+Fanatic of Rhonas	mh3	458	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Llanowar Elves	gnt	46	Owned	New	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Noble Hierarch	uma	174	Owned	New	Foil	1	W,U,G	~~	~~	Creature — Human Druid
 Devoted Druid	shm	110	Owned	New	Non-foil	2	G	~~	~~	Creature — Elf Druid
@@ -118,7 +118,6 @@ Plow Under	uds	117	Owned	New	Foil	5	G	~~	~~	Sorcery
 Green Sun's Zenith	2x2	150	Owned	New	Non-foil	1	G	~~	~~	Sorcery
 Fastbond	2ed	193	Owned	New	Non-foil	1	G	~~	~~	Enchantment
 Oath of Druids	c16	159	Proxied	New	Non-foil	2	G	~~	~~	Enchantment
-Survival of the Fittest	tpr	199	Proxied	New	Non-foil	2	G	~~	~~	Enchantment
 Gaea's Cradle	usg	321	Proxied	New	Non-foil	0	G	~~	~~	Legendary Land
 Teferi, Hero of Dominaria	med	GR6	Owned	New	Foil	5	W,U	~~	~~	Legendary Planeswalker — Teferi
 Fractured Identity	sld	272	Owned	New	Non-foil	5	U,W	~~	~~	Sorcery
@@ -137,16 +136,16 @@ Kolaghan's Command	2x2	381	Owned	New	Foil	3	B,R	~~	~~	Instant
 Badlands	vma	291	Proxied	New	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
 Blackcleave Cliffs	one	370	Owned	New	Foil	0	B,R	~~	~~	Land
 Blood Crypt	unf	279	Owned	New	Non-foil	0	B,R	~~	~~	Land — Swamp Mountain
-Bloodstained Mire	zne	3	Owned	New	Non-foil	0	~~	~~	~~	Land
+Bloodstained Mire	mh3	435	Owned	New	Foil	0	~~	~~	~~	Land
 Manamorphose	2xm	208	Owned	New	Foil	2	G,R	~~	~~	Instant
 Copperline Gorge	one	371	Owned	New	Foil	0	R,G	~~	~~	Land
 Stomping Ground	unf	280	Owned	New	Non-foil	0	R,G	~~	~~	Land — Mountain Forest
 Taiga	vma	317	Proxied	New	Non-foil	0	R,G	~~	~~	Land — Mountain Forest
-Wooded Foothills	zne	4	Owned	New	Non-foil	0	~~	~~	~~	Land
+Wooded Foothills	mh3	441	Owned	New	Foil	0	~~	~~	~~	Land
 Razorverge Thicket	one	373	Owned	New	Foil	0	W,G	~~	~~	Land
 Savannah	vma	311	Proxied	New	Non-foil	0	W,G	~~	~~	Land — Forest Plains
 Temple Garden	unf	281	Owned	New	Non-foil	0	W,G	~~	~~	Land — Forest Plains
-Windswept Heath	zne	5	Owned	New	Non-foil	0	~~	~~	~~	Land
+Windswept Heath	mh3	440	Owned	New	Foil	0	~~	~~	~~	Land
 Tidehollow Sculler	tsr	388	Owned	New	Foil	2	W,B	~~	~~	Artifact Creature — Zombie
 Vindicate	mh2	322	Owned	New	Foil	3	W,B	~~	~~	Sorcery
 Godless Shrine	unf	282	Owned	New	Non-foil	0	W,B	~~	~~	Land — Plains Swamp
@@ -199,8 +198,6 @@ Crucible of Worlds	j13	4	Owned	New	Non-foil	3	~~	~~	~~	Artifact
 Sword of Feast and Famine	2xm	364	Owned	New	Foil	3	~~	~~	~~	Artifact — Equipment
 Batterskull	nph	130	Owned	New	Non-foil	5	~~	~~	~~	Artifact — Equipment
 Memory Jar	ulg	129	Owned	New	Non-foil	5	~~	~~	~~	Artifact
-Mindslaver	som	176	Owned	New	Non-foil	6	~~	~~	~~	Legendary Artifact
-Academy Ruins	2xm	369	Owned	New	Foil	0	U	~~	~~	Legendary Land
 Ancient Tomb	ltc	387	Owned	New	Foil	0	~~	~~	~~	Land
 Mishra's Workshop	atq	81	Proxied	New	Non-foil	0	~~	~~	~~	Land
 Strip Mine	sld	472	Owned	New	Foil	0	~~	~~	~~	Land
@@ -232,7 +229,7 @@ Palace Jailer	tsr	298	Owned	~~	Foil	4	W	~~	~~	Creature — Human Soldier
 Archon of Cruelty	mh2	342	Owned	~~	Foil	8	B	~~	~~	Creature — Archon
 Ragavan, Nimble Pilferer	mh2	315	Owned	~~	Non-foil	1	R	~~	~~	Legendary Creature — Monkey Pirate
 Unholy Heat	mh2	145	Owned	~~	Non-foil	1	R	~~	~~	Instant
-Dragon's Rage Channeler	mh2	121	Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Shaman
+Dragon's Rage Channeler	h2r	9	Owned	~~	Foil	1	R	~~	~~	Creature — Human Shaman
 Ignoble Hierarch	mh2	166	Owned	~~	Non-foil	1	B,G,R	~~	~~	Creature — Goblin Shaman
 Expressive Iteration	stx	186	Owned	~~	Non-foil	2	R,U	~~	~~	Sorcery
 Urza's Saga	mh2	259	Proxied	~~	Non-foil	0	~~	~~	~~	Enchantment Land — Urza’s Saga
@@ -320,7 +317,6 @@ Leovold, Emissary of Trest	puma	U22	Owned	~~	Foil	3	B,G,U	~~	~~	Legendary Creatu
 Vendilion Clique	j22	368	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yawgmoth, Thran Physician	dmr	315	Owned	~~	Foil	4	B	~~	~~	Legendary Creature — Human Cleric
 Yawgmoth's Will	usg	171	Owned	~~	Non-foil	3	B	~~	~~	Sorcery
-Putrid Imp	tor	77	Owned	~~	Non-foil	1	B	~~	~~	Creature — Zombie Imp
 Ledger Shredder	snc	46	Owned	~~	Non-foil	2	U	~~	~~	Creature — Bird Advisor
 Vengevine	puma	U20	Owned	~~	Foil	4	G	~~	~~	Creature — Elemental
 Echo of Eons	mh1	46	Owned	~~	Non-foil	6	U	~~	~~	Sorcery
@@ -397,7 +393,6 @@ Trinket Mage	tsr	320	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra, Hope's Beacon	mom	321	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Rolling Earthquake	2xm	142	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Voice of Resurgence	2xm	227	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Restless Fortress	woe	305	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Restless Vinestalk	woe	307	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Inferno Titan	cmm	541	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thirst for Discovery	vow	85	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -487,7 +482,6 @@ Talisman of Progress	sld	1052	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
 Talisman of Curiosity	sld	1061	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
 Talisman of Impulse	sld	1055	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
 Talisman of Unity	sld	1056	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
-Candelabra of Tawnos	atq	43	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Triplicate Titan	c21	79	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Palantír of Orthanc	ltr	792	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Relic of Sauron	ltc	79	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -499,7 +493,6 @@ Currency Converter	ncc	181	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Portal to Phyrexia	bro	240	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Chromatic Star	2xm	239	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Meek	2xm	299	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Lotus Field	m20	249	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Underground Mortuary	mkm	333	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Commercial District	mkm	324	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Hedge Maze	mkm	326	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -544,3 +537,4 @@ Silence	plst	TSR-302	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Staff of the Storyteller	onc	48	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glimmer Lens	onc	44	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Infernal Grasp	mid	107	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Psychic Frog	mh3	344	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
