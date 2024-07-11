@@ -71,7 +71,6 @@ Toxic Deluge	cmm	523	Owned	New	Etched	3	B	~~	~~	Sorcery
 Damnation	2x2	353	Owned	New	Foil	4	B	~~	~~	Sorcery
 Tendrils of Agony	scg	75	Owned	New	Non-foil	4	B	~~	~~	Sorcery
 Animate Dead	5ed	140	Owned	New	Non-foil	2	B	~~	~~	Enchantment — Aura
-Bitterblossom	2x2	69	Owned	New	Non-foil	2	B	~~	~~	Tribal Enchantment — Faerie
 Necromancy	vis	64	Owned	New	Non-foil	3	B	~~	~~	Enchantment
 Recurring Nightmare	exo	72	Owned	New	Non-foil	3	B	~~	~~	Enchantment
 Grim Lavamancer	dmr	324	Owned	New	Foil	1	R	~~	~~	Creature — Human Wizard
@@ -104,7 +103,6 @@ Courser of Kruphix	tsr	359	Owned	New	Foil	3	G	~~	~~	Enchantment Creature — Cen
 Eternal Witness	puma	U16	Owned	New	Foil	3	G	~~	~~	Creature — Human Shaman
 Ramunap Excavator	hou	129	Owned	New	Non-foil	3	G	~~	~~	Creature — Naga Cleric
 Tireless Tracker	soi	233	Owned	New	Non-foil	3	G	~~	~~	Creature — Human Scout
-Oracle of Mul Daya	zen	172	Owned	New	Non-foil	4	G	~~	~~	Creature — Elf Shaman
 Thragtusk	tsr	368	Owned	New	Non-foil	5	G	~~	~~	Creature — Beast
 Primeval Titan	ima	183	Owned	New	Non-foil	6	G	~~	~~	Creature — Giant
 Craterhoof Behemoth	cmm	556	Owned	New	Etched	8	G	~~	~~	Creature — Beast
@@ -291,7 +289,6 @@ Rotting Regisaur	m20	111	Owned	~~	Non-foil	3	B	~~	~~	Creature — Zombie Dinosau
 Collective Brutality	emn	85	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gray Merchant of Asphodel	tsr	323	Owned	~~	Non-foil	5	B	~~	~~	Creature — Zombie
 Soulherder	h1r	30	Owned	~~	Etched	3	U,W	~~	~~	Creature — Spirit
-Gaddock Teeg	puma	U21	Owned	~~	Foil	2	W,G	~~	~~	Legendary Creature — Kithkin Advisor
 Territorial Kavu	mh2	216	Owned	~~	Non-foil	2	G,R	~~	~~	Creature — Kavu
 Lutri, the Spellchaser	mul	182	Owned	~~	Non-foil	3	R,U	~~	~~	Legendary Creature — Elemental Otter
 Knight of the Reliquary	ima	203	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -316,7 +313,7 @@ Leovold, Emissary of Trest	puma	U22	Owned	~~	Foil	3	B,G,U	~~	~~	Legendary Creatu
 Vendilion Clique	j22	368	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Yawgmoth, Thran Physician	dmr	315	Owned	~~	Foil	4	B	~~	~~	Legendary Creature — Human Cleric
 Yawgmoth's Will	usg	171	Owned	~~	Non-foil	3	B	~~	~~	Sorcery
-Ledger Shredder	snc	46	Owned	~~	Non-foil	2	U	~~	~~	Creature — Bird Advisor
+Ledger Shredder	snc	412	Owned	~~	Foil	2	U	~~	~~	Creature — Bird Advisor
 Echo of Eons	mh1	46	Owned	~~	Non-foil	6	U	~~	~~	Sorcery
 Through the Breach	uma	152	Owned	~~	Non-foil	5	R	~~	~~	Instant — Arcane
 Fireblast	dmr	319	Owned	~~	Foil	6	R	~~	~~	Instant
@@ -539,3 +536,4 @@ Elvish Spirit Guide	sld	423	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Ajani, Nacatl Pariah	mh3	442	Owned	~~	Foil	"""~~"""	W	~~	~~	~~
 Mawloc	40k	133	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tishana's Tidebinder	lci	335	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Urborg, Tomb of Yawgmoth	tsr	287	Owned	~~	~~	"""~~"""	~~	~~	~~	~~

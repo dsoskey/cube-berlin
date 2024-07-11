@@ -1749,3 +1749,8 @@ Timestamp	Board	ChangeType	Name
 2024-07-11T00:37:32.056+00:00	mainboard	remove	Vengevine
 2024-07-11T00:37:32.056+00:00	mainboard	add	Mawloc
 2024-07-11T00:38:10.826+00:00	mainboard	add	Tishana's Tidebinder
+2024-07-11T00:49:55.336+00:00	mainboard	edit	Ledger Shredder
+2024-07-11T00:49:55.336+00:00	mainboard	remove	Gaddock Teeg
+2024-07-11T00:49:55.336+00:00	mainboard	remove	Oracle of Mul Daya
+2024-07-11T00:49:55.336+00:00	mainboard	remove	Bitterblossom
+2024-07-11T00:49:55.336+00:00	mainboard	add	Urborg, Tomb of Yawgmoth
