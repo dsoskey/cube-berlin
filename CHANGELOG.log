@@ -1731,3 +1731,6 @@ Timestamp	Board	ChangeType	Name
 2024-07-11T00:20:05.557+00:00	mainboard	remove	Mindslaver
 2024-07-11T00:20:05.557+00:00	mainboard	remove	Survival of the Fittest
 2024-07-11T00:20:05.557+00:00	mainboard	add	Psychic Frog
+2024-07-11T00:21:28.665+00:00	mainboard	edit	Fanatic of Rhonas
+2024-07-11T00:21:28.665+00:00	mainboard	remove	Devoted Druid
+2024-07-11T00:21:28.665+00:00	mainboard	add	Elvish Spirit Guide
