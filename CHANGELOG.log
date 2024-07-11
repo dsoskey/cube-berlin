@@ -1788,3 +1788,6 @@ Timestamp	Board	ChangeType	Name
 2024-07-11T14:47:43.750+00:00	mainboard	add	Sunfall
 2024-07-11T14:59:54.431+00:00	mainboard	remove	Wall of Omens
 2024-07-11T15:00:22.415+00:00	mainboard	remove	Elesh Norn, Grand Cenobite
+2024-07-11T16:26:03.345+00:00	mainboard	remove	Bomat Courier
+2024-07-11T16:26:03.345+00:00	mainboard	add	Mishra's Research Desk
+2024-07-11T16:26:03.345+00:00	mainboard	add	Portable Hole
