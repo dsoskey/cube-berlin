@@ -1745,3 +1745,6 @@ Timestamp	Board	ChangeType	Name
 2024-07-11T00:29:05.969+00:00	mainboard	edit	Ignoble Hierarch
 2024-07-11T00:29:05.969+00:00	mainboard	edit	Noble Hierarch
 2024-07-11T00:29:05.969+00:00	mainboard	edit	Lotus Petal
+2024-07-11T00:37:32.056+00:00	mainboard	edit	Detective's Phoenix
+2024-07-11T00:37:32.056+00:00	mainboard	remove	Vengevine
+2024-07-11T00:37:32.056+00:00	mainboard	add	Mawloc
